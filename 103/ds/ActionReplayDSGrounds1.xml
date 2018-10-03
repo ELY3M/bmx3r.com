@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subscription>
+	<name>ActionReplayDSGrounds</name>
+	<codelist>
+		<game>
+			<name>Super Mario 64 DS (ASMEN0J20)</name>
+			<gameid>ASME aea63749</gameid>
+			<date>2006/08/23 02:11</date>
+			<cheat>
+				<name>God Mode</name>
+				<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+				<codes>62093550 00000000 b2093550 00000000 200006a0 0000001c d2000000 00000000 020973ec 00000063 1208fce4 00000880 1210679c 00000008 02097454 00000064 94000130 fdbf0000 62093550 00000000 b2093550 00000000 00000098 0003ffff d2000000 00000000 92097598 fffd0002 0217abe0 00019b23 d0000000 00000000 92097598 fffd0002 021697c0 00019b23 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Lives</name>
+				<codes>020973ec 00000063 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Health</name>
+				<codes>1208fce4 00000880 1210679c 00000008 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Coins</name>
+				<codes>02097454 00000064 </codes>
+			</cheat>
+			<cheat>
+				<name>Press L+R+SELECT For 7 Red Coins</name>
+				<codes>94000130 000000fb 12097408 00000007 d0000000 00000000 92097408 00000008 12097608 0000ff80 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press B To Moon Jump</name>
+				<note>Do not use in cut-scenes or when going through doors.</note>
+				<codes>92097598 fffd0002 0217abe0 00019b23 d0000000 00000000 92097598 fffd0002 021697c0 00019b23 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press Y To Slow Falls</name>
+				<note>Do not use in cut-scenes or when going through doors.</note>
+				<codes>92097598 f7ff0800 0217abe0 ffffc000 d0000000 00000000 92097598 f7ff0800 021697c0 ffffc000 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press L+Up to Sprint</name>
+				<codes>94000130 fdbf0000 62093550 00000000 b2093550 00000000 00000098 0003ffff d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Invincible</name>
+				<codes>62093550 00000000 b2093550 00000000 200006a0 0000001c d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>All Castle Doors Unlocked</name>
+				<note>(No Stars or Keys Needed)</note>
+				<codes>12094ba4 0000ffff 22094ba6 000000ff </codes>
+			</cheat>
+			<cheat>
+				<name>Mario, Luigi and Wario Never Lose Cap</name>
+				<codes>22094ba7 00000080 </codes>
+			</cheat>
+			<cheat>
+				<name>All 120 Course Stars</name>
+				<codes>02094bb4 ffffffff 02094bb8 ffffffff 02094bbc ffffffff 12094bc0 0000ffff 22094bc2 000000ff </codes>
+			</cheat>
+			<cheat>
+				<name>100 Coins Total  for Every Course</name>
+				<codes>12094bd2 00006464 02094bd4 64646464 02094bd8 64646464 02094bdc 64646464 22094be0 00000064 </codes>
+			</cheat>
+			<cheat>
+				<name>All Mini Games in Rec Room</name>
+				<codes>02094be8 ffffffff </codes>
+			</cheat>
+			<folder>
+				<name>CHARACTER MODIFIER (Walk Through a Door/Load):</name>
+				<allowedon>0</allowedon>
+				<note>You must walk through a door / enter or exit a level to change the character.</note>
+				<cheat>
+					<name>Hold L+R+UP to Play as Yoshi</name>
+					<codes>94000130 000000bf 22094be1 00000003 d0000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Hold L+R+LEFT to Play as Wario</name>
+					<codes>94000130 000000df 22094be1 00000002 d0000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Hold L+R+RIGHT to Play as Luigi</name>
+					<codes>94000130 000000ef 22094be1 00000001 d0000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Hold L+R+DOWN to Play as Mario</name>
+					<codes>94000130 0000007f 22094be1 00000000 d0000000 00000000 </codes>
+				</cheat>
+			</folder>
+			<folder>
+				<name>FLOWER POWER CODES:</name>
+				<allowedon>0</allowedon>
+				<cheat>
+					<name>Infinite Fire Flower Power Up Time</name>
+					<codes>62093550 00000000 b2093550 00000000 100006be 0000ffff d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Infinite Feather Power Time</name>
+					<codes>62093568 00000000 b2093568 00000000 1000065e 0000ffff d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Yoshi: Press L for Flower Power (Fire)</name>
+					<codes>9209519a 00000000 94000130 000001ff 92094be0 00ff0300 62093550 00000000 b2093550 00000000 100006be 000003ff 200006f4 00000001 20000713 00000001 20000714 00000001 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Wario: Press L for Flower Power (Metal)</name>
+					<codes>9209519a 00000000 94000130 000001ff 92094be0 00ff0200 62093568 00000000 b2093568 00000000 1000065e 000003ff 200006a9 00000001 200006aa 00000001 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Luigi: Press L for Flower Power (Invisibility)</name>
+					<codes>9209519a 00000000 94000130 000001ff 92094be0 00ff0100 62093568 00000000 b2093568 00000000 1000065e 000003ff 200006ab 00000001 200006ac 00000001 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Mario: Press L for Feather Power (Wings)</name>
+					<codes>9209519a 00000000 94000130 000001ff 92094be0 00ff0000 62093568 00000000 b2093568 00000000 1000065e 000003ff 200006af 00000001 200006b0 00000001 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Any Character: Press START+R for Mario Power Up (Wings)</name>
+					<codes>9209519a 00000000 94000130 000002f7 62093568 00000000 b2093568 00000000 1000065e 000003ff 200006af 00000001 200006b0 00000001 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Any Character: Press START+L for Wario Power Up (Metal)</name>
+					<note>DO NOT USE WHILE IN WATER!</note>
+					<codes>9209519a 00000000 94000130 000001f7 62093568 00000000 b2093568 00000000 1000065e 000003ff 200006a9 00000001 200006aa 00000001 d2000000 00000000 </codes>
+				</cheat>
+			</folder>
+			<folder>
+				<name>SIZE+SHAPE MODIFIER CODES:</name>
+				<allowedon>1</allowedon>
+				<cheat>
+					<name>2D Character</name>
+					<codes>62093550 00000000 b2093550 00000000 10000088 00000100 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Stretched Out Character</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>62093550 00000000 b2093550 00000000 10000088 00006000 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Big character</name>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00003000 10000084 00003000 10000088 00003000 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Giant character</name>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00004000 10000084 00004000 10000088 00004000 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Mini Character</name>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00000800 10000084 00000800 10000088 00000800 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Invisible Character</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00000010 10000084 00000010 10000088 00000010 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Big and 2D Character</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00004000 10000084 00004000 10000088 00004000 d2000000 00000000 62093550 00000000 b2093550 00000000 10000088 00000100 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Giant and 2D Character</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00004000 10000084 00004000 10000088 00004000 d2000000 00000000 62093550 00000000 b2093550 00000000 10000088 00000100 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Mini and 2D Character</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00000800 10000084 00000800 10000088 00000800 d2000000 00000000 62093550 00000000 b2093550 00000000 10000088 00000100 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Stick Character</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00000100 10000088 00000100 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Squished Character</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>62093550 00000000 b2093550 00000000 10000084 00000100 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Freakin' Huge Character</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>62093550 00000000 b2093550 00000000 10000080 00006000 10000084 00006000 10000088 00006000 d2000000 00000000 </codes>
+				</cheat>
+			</folder>
+			<folder>
+				<name>STARTING MAP CODES:</name>
+				<allowedon>1</allowedon>
+				<cheat>
+					<name>Test Map 1 (Press Select while loading a save)</name>
+					<note>Code by Parasyte.</note>
+					<codes>94000130 fffb0000 02097360 00000029 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Test Map 2 (Press Select while loading a save)</name>
+					<note>Code by Parasyte.</note>
+					<codes>94000130 fffb0000 02097360 00000000 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Starting Area (Press Select while loading a save)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fffb0000 02097360 00000001 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Foyer (Press Select while loading a save)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fffb0000 02097360 00000002 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Basement (Press Select while loading a save)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fffb0000 02097360 00000004 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Upstairs (Press Select while loading a save)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fffb0000 02097360 00000005 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Bob-omb Battlefield (Press Select while loading a save)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fffb0000 02097360 00000006 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Whomp's Fortress (Press Select while loading a save)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fffb0000 02097360 00000007 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Cool, Cool Mountain (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000000a d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Jolly Roger Bay (Press Select while loading a save)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fffb0000 02097360 00000008 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Big Boo's Haunt (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000000c d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Hazy Maze Cave (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000000d d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Lethal Lava Land (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000000e d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Shifting Sand Land (Press Select while loading a save)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fffb0000 02097360 00000010 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Dire, Dire Docks (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000012 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Snowman's Land (Press Select while loading a save</name>
+					<codes>94000130 fffb0000 02097360 00000013 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Wet-Dry World (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000015 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Tall, Tall Mountain (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000016 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Tiny-Huge Island - Tiny Island (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000018 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Tiny-Huge Island - Huge Island (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000019 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Tick Tock Clock (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000001b d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Rainbow Road (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000001c d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Bowser in the Dark World (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000023 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Bowser in the Fire Sea (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000025 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Bowser in the Sky (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000027 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>The Secret of Battle Fort (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000002a d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Sunshine Isles (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000002b d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Goomboss Battle - Level (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000002c d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Big Boo Battle - Level (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 0000002e d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Chief Chilly Challenge (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000030 d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Rec Room (Press Select while loading a save)</name>
+					<codes>94000130 fffb0000 02097360 00000032 d2000000 00000000 </codes>
+				</cheat>
+			</folder>
+			<folder>
+				<name>SPEED MODIFIER CODES:</name>
+				<allowedon>1</allowedon>
+				<cheat>
+					<name>Faster (L+Up)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fdbf0000 62093550 00000000 b2093550 00000000 00000098 0006ffff d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Fastest (L+Up)</name>
+					<codes>94000130 fdbf0000 62093550 00000000 b2093550 00000000 00000098 0030ffff d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Speed of Lightning (L+Up)</name>
+					<codes>94000130 fdbf0000 62093550 00000000 b2093550 00000000 00000098 0200ffff d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Speed of Sound (L+Up)</name>
+					<codes>94000130 fdbf0000 62093550 00000000 b2093550 00000000 00000098 0600ffff d2000000 00000000 </codes>
+				</cheat>
+				<cheat>
+					<name>Speed of Light (L+Up)</name>
+					<note>Made by ActionReplayDSMaster (AnimalCrossingX)</note>
+					<codes>94000130 fdbf0000 62093550 00000000 b2093550 00000000 00000098 1000ffff d2000000 00000000 </codes>
+				</cheat>
+			</folder>
+		</game>
+	</codelist>
+</subscription>

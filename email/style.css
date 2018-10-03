@@ -1,0 +1,23 @@
+A:link {text-decoration: none; color: white;}
+A:visited {text-decoration: none; color: silver;}
+A:active {text-decoration: none; color: white;}
+A:hover {text-decoration: none; color: white;}
+body {
+padding:6;
+margin:0;
+font-family:Lucida Console;
+font-size:12px;
+color:white;
+text-decoration:none;
+background-image: none;
+background-color: blue;
+background-repeat : repeat;
+background-attachment : fixed;
+background-position : 0% 0%;
+}
+.image {
+background-image: url('http://bmx3r.com/email/didyouread.php?temail=CSSTEST&femail=elym@mboca.com');
+background-color: blue;
+background-repeat : no-repeat;
+background: 100;
+}

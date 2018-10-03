@@ -1,0 +1,6 @@
+[Adblock Plus 1.1]
+! Farmville trees block
+! Updated: 22 May 2012
+!
+*trees*/*.png
+*trees*/*.swf

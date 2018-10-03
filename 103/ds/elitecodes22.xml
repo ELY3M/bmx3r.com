@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<codelist>
+	<name>Bowser's Action Replay DS Codes</name>
+	<game>
+		<name>Bowser's Favourite: Super Mario 64 DS!(ASMEN1J12/1J22)</name>
+		<gameid>ASME f486f859</gameid>
+		<date>2003/01/14 05:49</date>
+		<folder>
+			<name>CodeJunkies Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Infinite Coins</name>
+				<codes>02098998 00000064 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Health</name>
+				<codes>12090a00 00000880 121082a4 00000008 </codes>
+			</cheat>
+			<cheat>
+				<name>Press L+R+SELECT For 7 Red Coins</name>
+				<codes>94000130 000000fb 1209894c 00000007 d0000000 00000000 9209894c 00000008 12098b4c 0000ff80 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press B To Moon Jump</name>
+				<note>Do not use in cut-scenes or when going through doors.</note>
+				<codes>92096b5c fffd0002 0217f760 00019b23 d0000000 00000000 92096b5c fffd0002 0216e380 00019b23 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press Y To Slow Falls</name>
+				<note>Do not use in cut-scenes or when going through doors.</note>
+				<codes>92096b5c f7ff0800 0217f760 ffffc000 d0000000 00000000 92096b5c f7ff0800 0216e380 ffffc000 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>All 120 Course Stars</name>
+				<codes>020960f4 ffffffff 020960f8 ffffffff 020960fc ffffffff 12096100 0000ffff 22096102 000000ff </codes>
+			</cheat>
+			<cheat>
+				<name>100 Coins Total  for Every Course</name>
+				<codes>12096112 00006464 02096114 64646464 02096118 64646464 0209611c 64646464 22096120 00000064 </codes>
+			</cheat>
+			<cheat>
+				<name>All Castle Doors Unlocked</name>
+				<codes>120960e4 0000ffff 220960e6 000000ff </codes>
+			</cheat>
+			<cheat>
+				<name>All Mini Games in Rec Room</name>
+				<codes>02096128 ffffffff </codes>
+			</cheat>
+			<cheat>
+				<name>Mario, Luigi and Wario Never Lose Cap</name>
+				<codes>220960e7 00000080 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Lives</name>
+				<codes>02098930 00000063 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Kodewerx Mods</name>
+			<note>All Codes Tested And Work</note>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>L+Up To Grow</name>
+				<codes>62094A90 00000000 B2094A90 00000000 94000130 FDBF0000 D9000000 00000080 D4000000 00000005 D6000000 00000080 D2000000 00000000 62094A90 00000000 B2094A90 00000000 94000130 FDBF0000 D9000000 00000084 D4000000 00000005 D6000000 00000084 D2000000 00000000 62094A90 00000000 B2094A90 00000000 94000130 FDBF0000 D9000000 00000088 D4000000 00000005 D6000000 00000088 D2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>L+Down to Shrink</name>
+				<codes>62094A90 00000000 B2094A90 00000000 94000130 FD7F0000 D9000000 00000080 D4000000 FFFFFFFB D6000000 00000080 D2000000 00000000 62094A90 00000000 B2094A90 00000000 94000130 FD7F0000 D9000000 00000084 D4000000 FFFFFFFB D6000000 00000084 D2000000 00000000 62094A90 00000000 B2094A90 00000000 94000130 FD7F0000 D9000000 00000088 D4000000 FFFFFFFB D6000000 00000088 D2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press SELECT+L for Flower Power (Invisibility)</name>
+				<codes>927fffa8 fbff0000 823fdff8 fbff0000 da000000 023fdffa d4000000 00000001 d7000000 023fdffa d2000000 00000000 d3000000 027fffa8 f23fdff8 00000002 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press Y+R to go down </name>
+				<codes>94000130 fcff0200 927fffa8 f7ff0000 62094aa8 00000000 b2094aa8 00000000 d9000000 00000010 d4000000 ffffe000 d6000000 00000010 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Freeze Character in the air  (Press B+L to enable the effect, A to disable it)</name>
+				<codes>94000130 fffe0000 020525f0 e5823004 d0000000 00000000 94000130 fdfd0000 020525f0 e1a00000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press Y+L to go up </name>
+				<codes>94000130 fcff0100 927fffa8 f7ff0000 62094aa8 00000000 b2094aa8 00000000 d9000000 00000010 d4000000 00004000 d6000000 00000010 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Swim Through Walls</name>
+				<codes>02036c10 e3a00020 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Mushroom Effect (Press L+R+UP/Down to turn On/Off</name>
+				<codes>94000130 fcbf0000 023fdff8 00000001 d0000000 00000000 94000130 fc7f0000 023fdff8 00000000 d0000000 00000000 523fdff8 00000001 62094a90 00000000 b2094a90 00000000 10000080 00003000 10000084 00003000 10000088 00003000 d3000000 00000000 b2094aa8 00000000 10000672 00000008 200006b3 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Level Select Code LOOK AT NOTE!</name>
+				<note>Press X+Left or Right to increase/decrease your lives,Then press (and keep pressed) Y while entering a new level, and the game will load the level corresponding to the number of lives you have selected.</note>
+				<codes>52098930 ffffffff 02098930 00000063 d0000000 00000000 42098930 00000063 02098930 00000000 d0000000 00000000 a27fffa8 f7ff0000 520a8da8 e1a00422 020a8dac e1a01c22 020a8dd0 e20210ff d2000000 00000000 927fffa8 f7ff0000 520a8da8 e1a00422 020a8dac e3a01000 020a8dd0 e3a01001 d3000000 02098930 f20a8dac 00000001 d2000000 00000000 927fffa8 fbff0000 923fdf08 ff0f00f0 a4000130 ff0f00f0 d9000000 02098930 94000130 ffef0000 d4000000 00000001 d0000000 00000000 94000130 ffdf0000 d4000000 ffffffff d0000000 00000000 d6000000 02098930 d2000000 00000000 d3000000 04000130 f23fdf08 00000002 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press L to make water like Ground switch on/off </name>
+				<note>Not Tested</note>
+				<codes>94000130 fdff0000 823fdffc fdff0000 da000000 023fdffe d4000000 00000001 d7000000 023fdffe d2000000 00000000 d3000000 04000130 f23fdffc 00000002 d2000000 00000000 923fdffe fffe0000 02038b00 0a00000a d0000000 00000000 923fdffe fffe0001 02038b00 ea00000a d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press X for Walk On Water Mode on/off </name>
+				<note>still Working on.</note>
+				<codes>927fffa8 fbff0000 823fdff8 fbff0000 da000000 023fdffa d4000000 00000001 d7000000 023fdffa d2000000 00000000 d3000000 027fffa8 f23fdff8 00000002 d2000000 00000000 923fdffa fffe0000 02036c10 e2000020 d0000000 00000000 923fdffa fffe0001 02036c10 e2000000 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press X for Walk On Water Mode on/off </name>
+				<note>still Working on.</note>
+				<codes>927fffa8 fbff0000 823fdff8 fbff0000 da000000 023fdffa d4000000 00000001 d7000000 023fdffa d2000000 00000000 d3000000 027fffa8 f23fdff8 00000002 d2000000 00000000 923fdffa fffe0000 02036c10 e2000020 d0000000 00000000 923fdffa fffe0001 02036c10 e2000000 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press Start+Select to freeze/crash the game. Then hold L+R+Left+A (let go), hold Down+B (let go), hold Start+Select to make the exception handler appear. </name>
+				<codes>94000130 fff30000 2201a878 00000001 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>CHARACTER MODIFIER (Walk Through a Door):</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Hold L+R+UP to Play as Yoshi</name>
+				<codes>94000130 000000bf 22096121 00000003 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Hold L+R+LEFT to Play as Wario</name>
+				<codes>94000130 000000df 22096121 00000002 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Hold L+R+RIGHT to Play as Luigi</name>
+				<codes>94000130 000000ef 22096121 00000001 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Hold L+R+DOWN to Play as Mario</name>
+				<codes>94000130 0000007f 22096121 00000000 d0000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>FLOWER POWER CODES:</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Infinite Fire Flower Power Up Time</name>
+				<codes>62094a90 00000000 b2094a90 00000000 100006be 0000ffff d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Feather Power Up Time</name>
+				<codes>62094aa8 00000000 b2094aa8 00000000 1000065e 0000ffff d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Yoshi: Press L for Flower Power (Fire)</name>
+				<codes>920966da 00000000 94000130 000001ff 92096120 00000300 62094a90 00000000 b2094a90 00000000 100006be 000003ff d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000300 62094a90 00000000 b2094a90 00000000 200006f4 00000001 d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000300 62094a90 00000000 b2094a90 00000000 20000713 00000001 d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000300 62094a90 00000000 b2094a90 00000000 20000714 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Wario: Press L for Flower Power (Metal)</name>
+				<codes>920966da 00000000 94000130 000001ff 92096120 00000200 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000200 62094aa8 00000000 b2094aa8 00000000 200006a9 00000001 d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000200 62094aa8 00000000 b2094aa8 00000000 200006aa 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Luigi: Press L for Flower Power (Invisibility)</name>
+				<codes>920966da 00000000 94000130 000001ff 92096120 00000100 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000100 62094aa8 00000000 b2094aa8 00000000 200006ab 00000001 d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000100 62094aa8 00000000 b2094aa8 00000000 200006ac 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Mario: Press L for Feather Power (Wings)</name>
+				<codes>920966da 00000000 94000130 000001ff 92096120 00000000 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000000 62094aa8 00000000 b2094aa8 00000000 200006af 00000001 d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000000 62094aa8 00000000 b2094aa8 00000000 200006b0 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Any Character: Press START+R for Mario Power Up (Wings)</name>
+				<codes>920966da 00000000 94000130 000002f7 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff d2000000 00000000 920966da 00000000 94000130 000002f7 62094aa8 00000000 b2094aa8 00000000 200006af 00000001 d2000000 00000000 920966da 00000000 94000130 000002f7 62094aa8 00000000 b2094aa8 00000000 200006b0 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Any Character: Press START+L for Wario Power Up (Metal)</name>
+				<note>DO NOT USE WHILE IN WATER!</note>
+				<codes>920966da 00000000 94000130 000001f7 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff d2000000 00000000 920966da 00000000 94000130 000001f7 62094aa8 00000000 b2094aa8 00000000 200006a9 00000001 d2000000 00000000 920966da 00000000 94000130 000001f7 62094aa8 00000000 b2094aa8 00000000 200006aa 00000001 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Test Files</name>
+			<note>Press Select While Loading a save</note>
+			<allowedon>1</allowedon>
+			<cheat>
+				<name>TEST 1</name>
+				<note>Wario Map</note>
+				<codes>94000130 fffb0000 020988a4 00000030 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 2</name>
+				<note>INVILD MAP</note>
+				<codes>94000130 fffb0000 020988a4 00000045 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 3</name>
+				<note>Wario Map Boss</note>
+				<codes>94000130 fffb0000 020988a4 00000031 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 4</name>
+				<note>Character Change room</note>
+				<codes>94000130 fffb0000 020988a4 00000032 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 5</name>
+				<note>Castle Multplayer Map. DON'T GET STAR!</note>
+				<codes>94000130 fffb0000 020988a4 00000033 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Test Map 2 (Hold Select While Loading a Save)</name>
+				<note>Code by Parasyte.</note>
+				<codes>94000130 fffb0000 020988a4 00000000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 1</name>
+				<note>Wario Map</note>
+				<codes>94000130 fffb0000 020988a4 00000030 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 2</name>
+				<note>INVILD MAP</note>
+				<codes>94000130 fffb0000 020988a4 00000045 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 3</name>
+				<note>Wario Map Boss</note>
+				<codes>94000130 fffb0000 020988a4 00000031 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 4</name>
+				<note>Character Change room</note>
+				<codes>94000130 fffb0000 020988a4 00000032 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>TEST 5</name>
+				<note>Castle Multplayer Map. DON'T GET STAR!</note>
+				<codes>94000130 fffb0000 020988a4 00000033 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Test Map 1 (Hold Select While Loading a Save)</name>
+				<note>Code by Parasyte.</note>
+				<codes>94000130 fffb0000 020988a4 00000029 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>SIZE MODIFIER CODES:</name>
+			<allowedon>1</allowedon>
+			<cheat>
+				<name>2D Character</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000088 00000100 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Mini Character</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000800 10000084 00000800 10000088 00000800 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Stretched Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00001000 10000084 00002000 10000088 00001000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Pancake Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00001000 10000084 00000100 10000088 00001000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Paper Mario Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000100 10000084 00001000 10000088 00001000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Micro Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000200 10000084 00000200 10000088 00000200 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Mini Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000500 10000084 00000500 10000088 00000500 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Small Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000a00 10000084 00000a00 10000088 00000a00 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Big Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00002000 10000084 00002000 10000088 00002000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bigger Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00003000 10000084 00003000 10000088 00003000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Mega Mode</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00004000 10000084 00004000 10000088 00004000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Mega Mode</name>
+				<codes>0217f738 00006000 0217f73c 00006000 0217f740 00006000 </codes>
+			</cheat>
+			<cheat>
+				<name>WARNING: GIGANTIC Mode!</name>
+				<codes>0217f738 00010000 0217f73c 00010000 0217f740 00010000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>SPEED MODIFIER CODES:</name>
+			<note>HOLD the Y button to and RUN in any direction. Once you start running, the speed boost will kick in!</note>
+			<allowedon>1</allowedon>
+			<cheat>
+				<name>Run Fast</name>
+				<note>HOLD the Y button to and RUN in any direction. Once you start running, the speed boost will kick in!</note>
+				<codes>4216e370 0001df00 92096b5c f7ff0800 0216e370 00030000 d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 00030000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Run Really Fast</name>
+				<note>HOLD the Y button to and RUN in any direction. Once you start running, the speed boost will kick in!</note>
+				<codes>4216e370 0001d000 92096b5c f7ff0800 0216e370 00080000 d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 00080000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Run Super Fast</name>
+				<note>HOLD the Y button to and RUN in any direction. Once you start running, the speed boost will kick in!</note>
+				<codes>4216e370 0001d000 92096b5c f7ff0800 0216e370 000c0000 d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 000c0000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Run at Bullet Speed</name>
+				<note>HOLD the Y button to and RUN in any direction. Once you start running, the speed boost will kick in!</note>
+				<codes>4216e370 0001d000 92096b5c f7ff0800 0216e370 00100000 d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 00100000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>WARNING: Run at Warp Speed</name>
+				<note>HOLD the Y button to and RUN in any direction. Once you start running, the speed boost will kick in!</note>
+				<codes>4216e370 0001d000 92096b5c f7ff0800 0216e370 00200000 d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 00200000 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+	</game>
+	<game>
+		<name>Kodewerx Final Fantasy III</name>
+		<note> XML file by salcedam. Cheats gathered by salcedam. Cheats from CodeJunkies and Kodewerx. Thanks to BobSagat for making most of these codes. Another thanks to FreudianSlippers for helping with creating the "Items Codes."</note>
+		<gameid>AFFE 7a99fb3c</gameid>
+		<date>2007/08/20 23:30</date>
+		<cheat>
+			<name>Max/Infinite Gil</name>
+			<codes>0209ac90 05f5e0ff </codes>
+		</cheat>
+		<cheat>
+			<name>1 Hit Kills Enemies</name>
+			<codes>021d34a4 00000000 021d3644 00000000 021d37e4 00000000 </codes>
+		</cheat>
+		<cheat>
+			<name>Press L+X: Save Anywhere</name>
+			<codes>94000130 fdff0000 121348fc 00000008 d2000000 00000000 </codes>
+		</cheat>
+		<cheat>
+			<name>All Jobs Unlocked(Press Select)</name>
+			<codes>94000130 fffb0000 d5000000 00000101 c0000000 0000000a d7000000 020B77CE d2000000 00000000 </codes>
+		</cheat>
+		<folder>
+			<name>Character 1 Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Max/Inifinite Health</name>
+				<codes>020993f0 0000270f 020993f4 0000270f </codes>
+			</cheat>
+			<cheat>
+				<name>Max Character Level at Level Up</name>
+				<codes>020993e8 05f5e0ff </codes>
+			</cheat>
+			<cheat>
+				<name>Character in Party</name>
+				<codes>220993d8 00000001 </codes>
+			</cheat>
+			<cheat>
+				<name>Character Not in Party</name>
+				<codes>220993d8 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Status Always Normal</name>
+				<codes>2209941b 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>CHARACTER 2 CODES:</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Max/Infinite Health</name>
+				<codes>020996dc 0000270f 020996e0 0000270f </codes>
+			</cheat>
+			<cheat>
+				<name>Quick Level Up</name>
+				<codes>020996d4 05f5e0ff </codes>
+			</cheat>
+			<cheat>
+				<name>Character in Party</name>
+				<codes>220996c4 00000001 </codes>
+			</cheat>
+			<cheat>
+				<name>Character Not in Party</name>
+				<codes>220996c4 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Status Always Normal</name>
+				<codes>22099707 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>CHARACTER 3 CODES:</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Max/Infinite Health</name>
+				<codes>020999c8 0000270f 020999cc 0000270f </codes>
+			</cheat>
+			<cheat>
+				<name>Quick Level Up</name>
+				<codes>020999c0 05f5e0ff </codes>
+			</cheat>
+			<cheat>
+				<name>Character in Party</name>
+				<codes>220999b0 00000001 </codes>
+			</cheat>
+			<cheat>
+				<name>Character Not in Party</name>
+				<codes>220999b0 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Status Always Normal</name>
+				<codes>220999f3 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>CHARACTER 4 CODES:</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Max/Infinite Health</name>
+				<codes>02099cb4 0000270f 02099cb8 0000270f </codes>
+			</cheat>
+			<cheat>
+				<name>Quick Level Up</name>
+				<codes>02099cac 05f5e0ff </codes>
+			</cheat>
+			<cheat>
+				<name>Character in Party</name>
+				<codes>22099c9c 00000001 </codes>
+			</cheat>
+			<cheat>
+				<name>Character Not in Party</name>
+				<codes>22099c9c 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Status Always Normal</name>
+				<codes>22099cdf 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Entire Party Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Max Job Experience per Action</name>
+				<note>This gives you 99 Exp (Max) per action performed, guaranteeing you a job level per battle if you perform a action that gives job experience, works for all characters in the party.</note>
+				<codes>020198D0 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Max Job Level at Level Up</name>
+				<note>This gives you job level 99 the next time you job levels up, used with the code above you can do level 99 in one battle, works for the entire party also.</note>
+				<codes>02019858 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Max Character Level After 1 Battle</name>
+				<note>This makes your entire Party level 99 after just one battle.</note>
+				<codes>22017658 00000002 </codes>
+			</cheat>
+			<cheat>
+				<name>Max Stats</name>
+				<note>This will make all your stats maxed out constantly (start a battle or view status to initiate)</note>
+				<codes>02017580 E3A00063 020175AC E3A00063 020175D4 E3A00063 020175FC E3A00063 02017624 E3A00063 </codes>
+			</cheat>
+			<cheat>
+				<name>Max Magic</name>
+				<note>If you are a job that uses magic, it will become 99, works for the entire party (start a battle or view status to initiate)</note>
+				<codes>02017484 E3A00063 </codes>
+			</cheat>
+			<cheat>
+				<name>Unlimited Magic in Battle</name>
+				<note>This will make you always have unlimited magic for your magic users, a added bonus is if you view "status" inside the menu outside of a battle, it will also restore your magic.</note>
+				<codes>220174A8 00000001 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Mognet Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>99 WiFi Mails Sent</name>
+				<codes>220C6410 00000063 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Miscellaneous Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Load Corrupted/Hacked Saves</name>
+				<codes>2202DB40 00000004 </codes>
+			</cheat>
+			<cheat>
+				<name>Low Play Time</name>
+				<codes>020B9C9C 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Battle Codes</name>
+			<allowedon>1</allowedon>
+			<cheat>
+				<name>No Random Battles</name>
+				<codes>021E55C0 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Many Random Battles</name>
+				<note>Random battles will happen nearly every step but there is no guarantee as to what you will be fighting each step of the way.</note>
+				<codes>021E55C4 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Item Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>All Arm Gear</name>
+				<codes>0209A3F0 00630CE5 0209A3F4 00630CE7 0209A3F8 00630CE9 0209A3FC 00630CEB 0209A400 00630CED 0209A404 00630CEF 0209A408 00630CF1 0209A40C 00630CF3 0209A410 00630CF5 0209A414 00630CF7 0209A418 00630CF9 0209A41C 00630CFB 0209A420 00630CFD 0209A424 00630CFF 0209A428 00630D01 0209A42C 00630D03 </codes>
+			</cheat>
+			<cheat>
+				<name>All Body Armor</name>
+				<codes>0209A37C 00630C81 0209A380 00630C83 0209A384 00630C85 0209A388 00630C87 0209A38C 00630C89 0209A390 00630C8B 0209A394 00630C8D 0209A398 00630C8F 0209A39C 00630C91 0209A3A0 00630C93 0209A3A4 00630C95 0209A3A8 00630C97 0209A3AC 00630C99 0209A3B0 00630C9B 0209A3B4 00630C9D 0209A3B8 00630C9F 0209A3BC 00630CA1 0209A3C0 00630CA3 0209A3C4 00630CA5 0209A3C8 00630CA7 0209A3CC 00630CA9 0209A3D0 00630CAB 0209A3D4 00630CAD 0209A3D8 00630CAE 0209A3DC 00630CAF 0209A3E0 00630CB1 0209A3E4 00630CB3 0209A3E8 00630CB5 0209A3EC 00630CB9 </codes>
+			</cheat>
+			<cheat>
+				<name>All Head Gear</name>
+				<codes>0209A334 00630C1D 0209A338 00630C1F 0209A33C 00630C21 0209A340 00630C23 0209A344 00630C25 0209A348 00630C27 0209A34C 00630C29 0209A350 00630C2B 0209A354 00630C2D 0209A358 00630C2F 0209A35C 00630C31 0209A360 00630C33 0209A364 00630C34 0209A368 00630C35 0209A36C 00630C37 0209A370 00630C3B 0209A374 00630C3D 0209A378 00630C3F </codes>
+			</cheat>
+			<cheat>
+				<name>All Shields</name>
+				<codes>0209A30C 00630BB9 0209A310 00630BBB 0209A314 00630BBD 0209A318 00630BBF 0209A31C 00630BC1 0209A320 00630BC3 0209A324 00630BC5 0209A328 00630BC7 0209A32C 00630BC9 0209A330 00630BCB </codes>
+			</cheat>
+			<cheat>
+				<name>All Weapons</name>
+				<codes>0209A100 006303E9 0209A104 006303EB 0209A108 006303ED 0209A10C 006303EF 0209A110 006303F1 0209A114 006303F3 0209A118 006303F5 0209A11C 006303F7 0209A120 006303F9 0209A124 006303FB 0209A128 006303FD 0209A12C 0063044D 0209A130 0063044F 0209A134 00630451 0209A138 00630453 0209A13C 00630455 0209A140 00630457 0209A144 00630459 0209A148 0063045B 0209A14C 0063045D 0209A150 0063045F 0209A154 00630461 0209A158 00630463 0209A15C 00630465 0209A160 00630467 0209A164 00630468 0209A168 00630469 0209A16C 0063046B 0209A170 0063046D 0209A174 0063046F 0209A178 00630471 0209A17C 00630473 0209A180 0063047F 0209A184 00630481 0209A188 00630483 0209A18C 00630485 0209A190 00630489 0209A194 0063048B 0209A198 006304B1 0209A19C 006304B3 0209A1A0 006304B5 0209A1A4 006304B7 0209A1A8 006304B9 0209A1AC 006304BB 0209A1B0 006304BD 0209A1B4 006304BF 0209A1B8 006304C1 0209A1BC 00630515 0209A1C0 00630517 0209A1C4 00630519 0209A1C8 0063051B 0209A1CC 0063051D 0209A1D0 0063051F 0209A1D4 00630521 0209A1D8 00630523 0209A1DC 00630579 0209A1E0 0063057B 0209A1E4 0063057D 0209A1E8 0063057F 0209A1EC 00630581 0209A1F0 00630583 0209A1F4 00630585 0209A1F8 00630587 0209A1FC 00630589 0209A200 006305DD 0209A204 006305DF 0209A208 006305E1 0209A20C 006305E3 0209A210 006305E5 0209A214 006305E7 0209A218 006305E9 0209A21C 006305EB 0209A220 006305ED 0209A224 006305EF 0209A228 006305F1 0209A22C 00630641 0209A230 00630643 0209A234 00630645 0209A238 00630647 0209A23C 00630649 0209A240 0063064B 0209A244 0063064D 0209A248 0063064F 0209A24C 006306A5 0209A250 006306A7 0209A254 006306A9 0209A258 006306AB 0209A25C 006306AD 0209A260 006306AF 0209A264 006306B1 0209A268 006306B3 0209A26C 006306B5 0209A270 006306B7 0209A274 006306B9 0209A278 006306BB 0209A27C 00630709 0209A280 0063070B 0209A284 0063070D 0209A288 0063070F 0209A28C 00630711 0209A290 00630713 0209A294 0063076D 0209A298 0063076E 0209A29C 0063076F 0209A2A0 00630771 0209A2A4 00630773 0209A2A8 00630775 0209A2AC 00630777 0209A2B0 006307D1 0209A2B4 006307D3 0209A2B8 006307D5 0209A2BC 006307D7 0209A2C0 006307D9 0209A2C4 006307DB 0209A2C8 006307DD 0209A2CC 006307DF 0209A2D0 006307E1 0209A2D4 00630835 0209A2D8 00630837 0209A2DC 00630839 0209A2E0 0063083B 0209A2E4 0063083D 0209A2E8 00630899 0209A2EC 0063089B 0209A2F0 0063089D 0209A2F4 0063089F 0209A2F8 006308FD 0209A2FC 006308FF 0209A300 00630901 0209A304 00630903 0209A308 00630905 </codes>
+			</cheat>
+			<cheat>
+				<name>All Summons</name>
+				<codes>0209A0E0 00631069 0209A0E4 0063106A 0209A0E8 0063106B 0209A0EC 0063106C 0209A0F0 0063106D 0209A0F4 0063106E 0209A0F8 0063106F 0209A0FC 00631070 </codes>
+			</cheat>
+			<cheat>
+				<name>All Black Magic</name>
+				<codes>0209A080 00631005 0209A084 00631006 0209A088 00631007 0209A08C 00631008 0209A090 00631009 0209A094 0063100A 0209A098 0063100B 0209A09C 0063100C 0209A0A0 0063100D 0209A0A4 0063100E 0209A0A8 0063100F 0209A0AC 00631010 0209A0B0 00631011 0209A0B4 00631012 0209A0B8 00631013 0209A0BC 00631014 0209A0C0 00631015 0209A0C4 00631016 0209A0C8 00631017 0209A0CC 00631018 0209A0D0 00631019 0209A0D4 0063101A 0209A0D8 0063101B 0209A0DC 0063101C </codes>
+			</cheat>
+			<cheat>
+				<name>All White Magic</name>
+				<codes>0209A020 00630FA1 0209A024 00630FA2 0209A028 00630FA3 0209A02C 00630FA4 0209A030 00630FA5 0209A034 00630FA6 0209A038 00630FA7 0209A03C 00630FA8 0209A040 00630FA9 0209A044 00630FAA 0209A048 00630FAB 0209A04C 00630FAC 0209A050 00630FAD 0209A054 00630FAE 0209A058 00630FAF 0209A05C 00630FB0 0209A060 00630FB1 0209A064 00630FB2 0209A068 00630FB3 0209A06C 00630FB4 0209A070 00630FB5 0209A074 00630FB6 0209A078 00630FB7 0209A07C 00630FB8 </codes>
+			</cheat>
+			<cheat>
+				<name>All Battle Items(Zeus' Wrath, etc.)</name>
+				<codes>02099FC8 006313ED 02099FCC 006313EE 02099FD0 006313EF 02099FD4 006313F0 02099FD8 006313F1 02099FDC 006313F2 02099FE0 006313F3 02099FE4 006313F4 02099FE8 006313F5 02099FEC 006313F6 02099FF0 006313F7 02099FF4 006313F8 02099FF8 006313F9 02099FFC 006313FA 0209A000 006313FB 0209A004 006313FC 0209A008 006313FD 0209A00C 006313FE 0209A010 006313FF 0209A014 00631400 0209A018 00631401 0209A01C 00631402 </codes>
+			</cheat>
+			<cheat>
+				<name>All Regular Items(Potions, etc.)</name>
+				<codes>02099F90 00631389 02099F94 0063138A 02099F98 0063138B 02099F9C 0063138C 02099FA0 0063138D 02099FA4 0063138E 02099FA8 0063138F 02099FAC 00631390 02099FB0 00631391 02099FB4 00631392 02099FB8 00631393 02099FBC 00631394 02099FC0 00631395 02099FC4 00631396 </codes>
+			</cheat>
+		</folder>
+		
+		<folder>
+			<name>Some Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+			<name>Water Everywhere</name>
+			<note>This code makes everything water. Even the walls!</note>
+			<codes>02036c10 e3a00020 </codes>
+		</cheat>
+		<cheat>
+			<name>*Skip the start intro (New Game)</name>
+			<note>This code allows you to skip the boring video in the beginning of the game.Sweet,right?</note>
+			<codes>220960e8 000000ff </codes>
+		</cheat>
+	    </folder>
+		<folder>
+			<name>Codes That May Or May Not Work</name>
+			<allowedon>0</allowedon>
+			<cheat>
+			<name>Toggle Health Meter</name>
+			<note>I plan for this code to toggle the health meter. It just takes time...</note>
+			<codes>94000130 fcff0200 d2000000 00000000 </codes>
+		</cheat>
+		<cheat>
+			<name>Select + Start To Freeze The Game!</name>
+			<note>This gives you easier access to the Debug Screen!</note>
+			<codes>94000130 fff30000 2201a878 00000001 </codes>
+		</cheat>
+		</folder>
+		<folder>
+			<name>Just Random Codes Of Mine...</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Always Have 64 Coins </name>
+				<note>I believe 64 is a magic number. </note>
+				<codes>02098998 00000040 </codes>
+			</cheat>
+			<cheat>
+			<name>Bowser Makes Weird Stuff Happen</name>
+			<note>This Code Now WORKS! It Does Awesome, Random Stuff. It Is Fun!</note>
+			<codes>4216e370 0001df00 92096b5c f7ff0800 0216e370 DDDDDDDD d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 00030000 d2000000 00000000 </codes>
+		</cheat>
+			<cheat>
+				<name>Press R To Be Invisible</name>
+				<note>This will make you invisible when you press R.GRAAAR rhymes with RRRR!</note>
+				<codes>94000130 fcff0200 12090a00 00000800 121082a4 00000008 62094a90 00000000 b2094a90 00000000 200006a0 0000001d d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Kill Character With SELECT Button</name>
+				<note>Only use this when you feel that death is imminent.Also,this code WILL NOT work with "Infinite Health" on. </note>
+				<codes>94000130 fffb0000 12090a00 00000080 121082a4 00000008 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Warp(not complete yet)</name>
+				<note>Alot Of People Ask Me What This Is.It's Planned To Warp You Through Different Levels.A Basic Tour. </note>
+				<codes>94000130 fffb0000 020988a4 00000006 94000130 fffe0000 </codes>
+			</cheat>
+			<cheat>
+				<name>The REAL sized Mario</name>
+				<note>Like the same size of Mario in Super Mario 64!</note>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00001400 10000084 00001600 10000088 00001400 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press R to Max Out Health (No Sound</name>
+				<codes>94000130 fcff0200 12090a00 00000800 121082a4 00000008 </codes>
+			</cheat>
+			<cheat>
+				<name>Press R to Max Out Health (With sound)</name>
+				<note>Weird,but if ya hold R for a while, you won't get hurt for a couple hits.</note>
+				<codes>94000130 fcff0200 12090a00 00000800 121082a4 00000002 </codes>
+			</cheat>
+			<cheat>
+				<name>Never Lose Health</name>
+				<note>Your health is continuously being refilled with this code.You'll hear it too.</note>
+				<codes>12090a00 00001000 121082a4 00000008 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>How Many Stars Do You Want?</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Press L For 64 Power Stars</name>
+				<note>Get 64 Power Stars Just By Pressing L!</note>
+				<codes>94000130 fcff0100 020960f4 ffffffff 020960f5 ffffffff 020960f6 ffffffff 020960f7 ffffffff 020960f8 ffffffff </codes>
+			</cheat>
+			<cheat>
+				<name>Press R For 120 Power Stars</name>
+				<note>Or,You Can Get All 120 Course Stars By Pressing R...</note>
+				<codes>94000130 fcff0200 020960f4 ffffffff 020960f8 ffffffff 020960fc ffffffff 12096100 0000ffff 22096102 000000ff </codes>
+			</cheat>
+			<cheat>
+				<name>Easy 100 Coin Star</name>
+				<note>You'll start out the course with 99 coins,meaning you'll only need A COIN to get the 100 coin star!</note>
+				<codes>02098998 00000040 02098998 00000063 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Bowser's Cap Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Capless Character</name>
+				<note>Mario losty his cap! Can you find it, before I flame him?</note>
+				<codes>120960e5 0000ffff 220960e7 000000ff </codes>
+			</cheat>
+			<cheat>
+				<name>Invisible Cap</name>
+				<note>Go to the Toad in the lobby to aquire my invisible cap!</note>
+				<codes>120960e3 0000ffff 220960e7 000000ff </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Bowser's Own Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Kill Character With SELECT Button</name>
+				<note>Only use this when you feel that death is imminent.Also,this code WILL NOT work with "Infinite Health" on.</note>
+				<codes>94000130 fffb0000 12090a00 00000080 121082a4 00000008 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Warp(not complete yet)</name>
+				<note>Alot Of People Ask Me What This Is.It's Planned To Warp You Through Different Levels.A Basic Tour.</note>
+				<codes>94000130 fffb0000 020988a4 00000006 94000130 fffe0000 </codes>
+			</cheat>
+			<cheat>
+				<name>The REAL sized Mario</name>
+				<note>Like the same size of Mario in Super Mario 64! Finally Mario's in correct proportion!</note>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00001400 10000084 00001600 10000088 00001400 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Bowser's Level Warps</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Big Boo Battle Battle (C.5)</name>
+				<note>Press SELECT while loading a game save file to warp.Handy if ya want to quick play.</note>
+				<codes>94000130 fffb0000 020988a4 0000002f d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>? Switch Castle (1 Castle Secret Star{CSS})</name>
+				<codes>94000130 fffb0000 020988a4 0000001f d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Lethal Lava Land  Volcano (C.7)</name>
+				<codes>94000130 fffb0000 020988a4 0000000f d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Big Boo Battle (2 CSS) (C.5)</name>
+				<codes>94000130 fffb0000 020988a4 0000002e d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>The Secret Aquarium (1CSS)</name>
+				<codes>94000130 fffb0000 020988a4 0000001e d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Lethal Lava Land (C.7)</name>
+				<codes>94000130 fffb0000 020988a4 0000000e d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Goomboss Battle Battle</name>
+				<codes>94000130 fffb0000 020988a4 0000002d d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Princess's Secret Slide (2CSS)</name>
+				<codes>94000130 fffb0000 020988a4 0000001d d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Hazy Maze Cave (C.6)</name>
+				<codes>94000130 fffb0000 020988a4 0000000d d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Goomboss Battle ( 2 CSS)</name>
+				<codes>94000130 fffb0000 020988a4 0000002c d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Secret Under The Moat (2CSS)</name>
+				<note>Game freezes after collection of a star. 2CSS</note>
+				<codes>94000130 fffb0000 020988a4 00000020 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Rainbow Ride (C.15)</name>
+				<codes>94000130 fffb0000 020988a4 0000001c d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Big Boo's Haunt (C.5)</name>
+				<codes>94000130 fffb0000 020988a4 0000000c d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Sunshine Isles (1CSS)</name>
+				<codes>94000130 fffb0000 020988a4 0000002b d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Tick Tock Clock (C.14)</name>
+				<codes>94000130 fffb0000 020988a4 0000001b d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Cool Cool Mountain Slide (C.4)</name>
+				<codes>94000130 fffb0000 020988a4 0000000b d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>The Secret Of Battle Fort (1 CSS)</name>
+				<codes>94000130 fffb0000 020988a4 0000002a d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Tiny-Huge Island Wiggler's Cave (C.13)</name>
+				<codes>94000130 fffb0000 020988a4 0000001a d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Cool Cool Mountain (C.4)</name>
+				<codes>94000130 fffb0000 020988a4 0000000a d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Chief Chilly Challenge Battle</name>
+				<codes>94000130 fffb0000 020988a4 00000031 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Chief Chilly Challenge (2 CSS)</name>
+				<codes>94000130 fffb0000 020988a4 00000030 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bowser In The Sky Battle</name>
+				<codes>94000130 fffb0000 020988a4 00000028 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bowser In The Sky (2 CSS)</name>
+				<codes>94000130 fffb0000 020988a4 00000027 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bowser In The Fire Sea Battle</name>
+				<codes>94000130 fffb0000 020988a4 00000026 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bowser In The Fire Sea (2 CSS)</name>
+				<codes>94000130 fffb0000 020988a4 00000025 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bowser In The Dark World Battle</name>
+				<codes>94000130 fffb0000 020988a4 00000024 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bowser In The Dark World (2 CSS)</name>
+				<codes>94000130 fffb0000 020988a4 00000023 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Over The Rainbows (2 CSS)</name>
+				<codes>94000130 fffb0000 020988a4 00000022 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Behind The Waterfall (2 CSS)</name>
+				<codes>94000130 fffb0000 020988a4 00000021 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Tiny-Huge Island/Tiny Island (C.13)</name>
+				<codes>94000130 fffb0000 020988a4 00000019 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Tiny-Huge Island (C.13)</name>
+				<codes>94000130 fffb0000 020988a4 00000018 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Tall Tall Mountain Slide (C.12)</name>
+				<codes>94000130 fffb0000 020988a4 00000017 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Tall Tall Mountain  (C.12)</name>
+				<codes>94000130 fffb0000 020988a4 00000016 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Wet Dry World (C.11)</name>
+				<codes>94000130 fffb0000 020988a4 00000015 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Snowman's Land/ In Igloo (C.10)</name>
+				<codes>94000130 fffb0000 020988a4 00000014 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Snowman's Land (C.10)</name>
+				<codes>94000130 fffb0000 020988a4 00000013 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bob-Omb Battlefield (C.1)</name>
+				<codes>94000130 fffb0000 020988a4 00000006 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Whomp's Fortress (C2)</name>
+				<codes>94000130 fffb0000 020988a4 00000007 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Jolly Roger's Sunken Ship (C.3)</name>
+				<codes>94000130 fffb0000 020988a4 00000009 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Jolly Roger Bay (C.3)</name>
+				<codes>94000130 fffb0000 020988a4 00000008 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Dire,Dire Docks (C.9)</name>
+				<codes>94000130 fffb0000 020988a4 00000012 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Over The Rainbows</name>
+				<codes>94000130 fffb0000 020988a4 00000022 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Shifting Sand Land Pyramid (C.8)</name>
+				<codes>023cdcd8 00000000 94000130 fffb0000 020988a4 00000011 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Shifting Sand Land (C.8)</name>
+				<codes>94000130 fffb0000 020988a4 00000010 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Bowser's Character Sizes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Big (Press L)</name>
+				<codes>94000130 fdff0000 62094a90 00000000 b2094a90 00000000 10000080 00001700 10000084 00001900 10000088 00001700 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Regular (Press X)</name>
+				<codes>927fffa8 fbff0000 62094a90 00000000 b2094a90 00000000 10000080 00001000 10000084 00001000 10000088 00001000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Tiny (Press R)</name>
+				<codes>94000130 fcff0200 62094a90 00000000 b2094a90 00000000 10000080 00000970 10000084 00000970 10000088 00000970 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Regular Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00001000 10000084 00001000 10000088 00001000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Mini Paper Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000100 10000084 00000800 10000088 00000800 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Mini Cardboard Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000200 10000084 00000800 10000088 00000800 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Shorter Than Tall Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00001900 10000084 00002300 10000088 00001900 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Tall Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00002300 10000084 00003300 10000088 00002300 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Cardboard Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000550 10000084 00003300 10000088 00003000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Exploding Cardboard Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000550 10000084 00013800 10000088 00003000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Thin Wire Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000050 10000084 00003300 10000088 00000050 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Plane Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000083 00000400 10000884 00000500 00000085 00000500 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Skinny Totem Pole Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000300 10000084 00003300 10000088 00000300 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Totem Pole Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000400 10000084 00003300 10000088 00000400 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Totem Pole Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000200 10000084 00003300 10000088 00000200 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Lazy Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000090 00010000 10000091 00004000 10000092 00003000 d2000000 00000000 62094a90 00000000 b2094a90 00000000 10000080 00002000 10000084 00002000 10000088 00002000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Upside DOWN  Mario(Can't swim well)</name>
+				<note>With this code enabled,the character can't swim well.I'm just warning you,ya might get stuck on the ground.</note>
+				<codes>62094a90 00000000 b2094a90 00000000 10000090 00010000 10000091 00008000 10000092 00003000 d2000000 00000000 62094a90 00000000 b2094a90 00000000 10000080 00002000 10000084 00002000 10000088 00002000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Leaning Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000090 00010000 10000091 00001000 10000092 00003000 d2000000 00000000 62094a90 00000000 b2094a90 00000000 10000080 00002000 10000084 00002000 10000088 00002000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Plane Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000083 00000400 10000084 00003000 10000085 00003000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Cardboard Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000400 10000084 00003000 10000088 00003000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Paper Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000160 10000084 00003000 10000088 00003000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Super Gingerbread Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00004000 10000084 00003300 10000088 00000800 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Squat Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00002500 10000084 00003300 10000088 00002500 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Exploding Pole Mario</name>
+				<note>Tell ya what.I'll see ya next fall!Get it? No? Well,you will...</note>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00010100 10000084 00003400 10000088 00010100 d2000000 00000000 62094a90 00000000 b2094a90 00000000 10000080 00002000 10000084 00002000 10000088 00002000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Thin Pole Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00010100 10000084 00003300 10000088 00010100 d2000000 00000000 00000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Thick Pole Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00010700 10000084 00003300 10000088 00010700 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Cardboard Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000800 10000084 00003300 10000088 00003000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Macho Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00007000 10000084 00003000 10000088 00009900 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Taffy Pulled Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00000800 10000084 00003000 10000088 00007000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Bigger Mario</name>
+				<codes>62094a90 00000000 b2094a90 00000000 10000080 00003000 10000084 00003000 10000088 00003000 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Included Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Infinite Lives</name>
+				<codes>02098930 00000063 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Health</name>
+				<codes>12090a00 00000880 121082a4 00000008 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Coins</name>
+				<codes>02098998 00000064 </codes>
+			</cheat>
+			<cheat>
+				<name>Press L+R+SELECT For 7 Red Coins</name>
+				<codes>94000130 000000fb 1209894c 00000007 d0000000 00000000 9209894c 00000008 12098b4c 0000ff80 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press B To Moon Jump</name>
+				<note>Do not use in cut-scenes or when going through doors.</note>
+				<codes>92096b5c fffd0002 0217f760 00019b23 d0000000 00000000 92096b5c fffd0002 0216e380 00019b23 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Press Y To Slow Falls</name>
+				<note>Do not use in cut-scenes or when going through doors.</note>
+				<codes>92096b5c f7ff0800 0217f760 ffffc000 d0000000 00000000 92096b5c f7ff0800 0216e380 ffffc000 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>All 120 Course Stars</name>
+				<codes>020960f4 ffffffff 020960f8 ffffffff 020960fc ffffffff 12096100 0000ffff 22096102 000000ff </codes>
+			</cheat>
+			<cheat>
+				<name>100 Coins Total  for Every Course</name>
+				<codes>12096112 00006464 02096114 64646464 02096118 64646464 0209611c 64646464 22096120 00000064 </codes>
+			</cheat>
+			<cheat>
+				<name>All Castle Doors Unlocked</name>
+				<codes>120960e4 0000ffff 220960e6 000000ff </codes>
+			</cheat>
+			<cheat>
+				<name>All Mini Games in Rec Room</name>
+				<codes>02096128 ffffffff </codes>
+			</cheat>
+			<cheat>
+				<name>Mario, Luigi and Wario Never Lose Cap</name>
+				<codes>220960e7 00000080 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Power Up Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Luigi: Press L For Invisibility</name>
+				<codes>920966da 00000000 94000130 000001ff 92096120 00000100 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000100 62094aa8 00000000 b2094aa8 00000000 200006ab 00000001 d2000000 00000000 920966da 00000000 94000130 000001ff 92096120 00000100 62094aa8 00000000 b2094aa8 00000000 200006ac 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Metal Power ANY Character(START + L)</name>
+				<note>DO NOT USE IN WATER!The game will freeze, leaving you in a cold spot.</note>
+				<codes>920966da 00000000 94000130 000001f7 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff d2000000 00000000 920966da 00000000 94000130 000001f7 62094aa8 00000000 b2094aa8 00000000 200006a9 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>INSTANTLY give ANY character wings!(R + START)</name>
+				<note> DO NOT use in castle EXCEPT in courses!</note>
+				<codes>920966da 00000000 94000130 000002f7 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff d2000000 00000000 920966da 00000000 94000130 000002f7 62094aa8 00000000 b2094aa8 00000000 200006af 00000001 d2000000 00000000 920066da 00000000 94000130 000002f7 62094aa8 00000000 b2094aa8 00000000 200006b0 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Infinite Feather Power Up Time</name>
+				<codes>62094aa8 00000000 b2094aa8 00000000 1000065e 0000ffff d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>*"L+R+Up" for SuperMushroom (Best effect without ""X" to walk on waker")</name>
+				<note>this has its best effects without ""X" to walk on water" enabled.</note>
+				<codes>94000130 fcbf0000 023fdff8 00000001 d0000000 00000000 94000130 fc7f0000 023fdff8 00000000 d0000000 00000000 523fdff8 00000001 62094a90 00000000 b2094a90 00000000 10000080 00003000 10000084 00003000 10000088 00003000 d3000000 00000000 b2094aa8 00000000 10000672 00000008 200006b3 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Mushroom Effect L+R+Up on/L+R+Down off</name>
+				<codes>94000130 fcbf0000 023fdff8 00000001 d0000000 00000000 94000130 fc7f0000 023fdff8 00000000 d0000000 00000000 523fdff8 00000001 62093550 00000000 b2093550 00000000 10000080 00003000 10000084 00003000 10000088 00003000 d3000000 00000000 b2093568 00000000 10000672 00000008 200006b3 00000001 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Play As Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Play as Wario(L + R +LEFT)</name>
+				<codes>94000130 000000df 22096121 00000002 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Play as Luigi(L + R + RIGHT)</name>
+				<codes>94000130 000000ef 22096121 00000001 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Play as Mario(L + R + DOWN)</name>
+				<codes>94000130 0000007f 22096121 00000000 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Play As Yoshi(L + R +UP)</name>
+				<note>Press L + R + Up when going through certain doors.</note>
+				<codes>94000130 000000bf 22096121 00000003 d0000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Speed Modifier Codes</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Stop 'N' Go Run (Just take it easy!)</name>
+				<codes>4216e370 0001df00 92096b5c f7ff0800 0216e370 00000100 d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 00000100 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Run Fast</name>
+				<codes>4216e370 0001df00 92096b5c f7ff0800 0216e370 00045000 d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 00045000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Run As Fast As A Speeding Bullet(hold Y and run.)</name>
+				<note>This code is great most of the time,but you might not be in tight control of the character.</note>
+				<codes>4216e370 0001d000 92096b5c f7ff0800 0216e370 00100000 d2000000 00000000 4217f750 0001d000 92096b5c f7ff0800 0217f750 00100000 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>The Test Maps</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Test Map 1</name>
+				<note>This test map is made up of rolling tox boxes,you can walk off the edge.</note>
+				<codes>94000130 fffb0000 020988a4 00000029 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Test Map 2</name>
+				<note>This test map is like, totally beta.</note>
+				<codes>94000130 fffb0000 020988a4 00000000 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+		<folder>
+			<name>Souped Up Abilities</name>
+			<allowedon>0</allowedon>
+			<cheat>
+				<name>Press L+Up to sprint</name>
+				<codes>94000130 fdbf0000 62093550 00000000 b2093550 00000000 00000098 0003ffff d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>L and Up To Sprint</name>
+				<codes>94000130 fdbf0000 62094a90 00000000 b2094a90 00000000 00000098 0003ffff d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>Invincible</name>
+				<codes>62094a90 00000000 b2094a90 00000000 200006a0 0000001c d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>*Hover ("L+B" to active/"A" to deactive)</name>
+				<codes>94000130 fffe0000 020525f0 e5823004 d0000000 00000000 94000130 fdfd0000 020525f0 e1a00000 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>*"X" to walk on water</name>
+				<codes>927fffa8 fbff0000 823fdff8 fbff0000 da000000 023fdffa d4000000 00000001 d7000000 023fdffa d2000000 00000000 d3000000 027fffa8 f23fdff8 00000002 d2000000 00000000 923fdffa fffe0000 02036c10 e2000020 d0000000 00000000 923fdffa fffe0001 02036c10 e2000000 d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>*"A+Start" to walk under water</name>
+				<codes>94000130 fff60000 823fdffc fff60000 da000000 023fdffe d4000000 00000001 d7000000 023fdffe d2000000 00000000 d3000000 04000130 f23fdffc 00000002 d2000000 00000000 923fdffe fff60000 02038b00 0a00000a d0000000 00000000 923fdffe fff60001 02038b00 ea00000a d0000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>+Any Character: Press START+R for Luigi Power Up (Invisiblity)</name>
+				<codes>920966da 00000000 94000130 000002f7 62094aa8 00000000 b2094aa8 00000000 1000065e 000003ff 200006ab 00000001 200006ac 00000001 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>*"L+A+Left"=Grow/"R+A+Right"=Shrink</name>
+				<codes>62094a90 00000000 b2094a90 00000000 94000130 ddde0000 d9000000 00000080 d4000000 00000005 d6000000 00000080 d2000000 00000000 62094a90 00000000 b2094a90 00000000 94000130 ddde0000 d9000000 00000084 d4000000 00000005 d6000000 00000084 d2000000 00000000 62094a90 00000000 b2094a90 00000000 94000130 ddde0000 d9000000 00000088 d4000000 00000005 d6000000 00000088 d2000000 00000000 62094a90 00000000 b2094a90 00000000 94000130 eeee0000 d9000000 00000080 d4000000 fffffffb d6000000 00000080 d2000000 00000000 62094a90 00000000 b2094a90 00000000 94000130 eeee0000 d9000000 00000084 d4000000 fffffffb d6000000 00000084 d2000000 00000000 62094a90 00000000 b2094a90 00000000 94000130 eeee0000 d9000000 00000088 d4000000 fffffffb d6000000 00000088 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>*Press "Y+L" to fall up (Though roof)</name>
+				<codes>94000130 fcff0100 927fffa8 f7ff0000 62094aa8 00000000 b2094aa8 00000000 d9000000 00000010 d4000000 00004000 d6000000 00000010 d2000000 00000000 </codes>
+			</cheat>
+			<cheat>
+				<name>*Pres "Y + R" to fall down(Through floor)</name>
+				<codes>94000130 fcff0200 927fffa8 f7ff0000 62094aa8 00000000 b2094aa8 00000000 d9000000 00000010 d4000000 ffffe000 d6000000 00000010 d2000000 00000000 </codes>
+			</cheat>
+		</folder>
+	</game>
+</codelist>
