@@ -11,6 +11,7 @@
 
 body {
   font-family: "fixedsys";
+  font-size: 16px;
   background-image: url("http://bmx3r.com/stars_back.gif");
   background-attachment: fixed;
 
@@ -21,7 +22,7 @@ pre {
 	width: 100%;
 	padding: 5;
 	margin: 5;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 20px;
 	border: 1px solid #777;
 }
