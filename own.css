@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'fixedsys';
+    src: url('fonts/fsex300-webfont.woff2') format('woff2'),
+         url('fonts/fsex300-webfont.woff') format('woff'),
+         url('fonts/fsex300-webfont.ttf') format('truetype'),
+         url('fonts/fsex300-webfont.svg#fixedsys_excelsior_3.01Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+  font-family: "fixedsys";
+  background-image: url("http://bmx3r.com/stars_back.gif");
+  background-attachment: fixed;
+
+
+}
+
+pre {
+	width: 100%;
+	padding: 5;
+	margin: 5;
+	font-size: 16px;
+	line-height: 20px;
+	border: 1px solid #777;
+}
+pre code {
+	padding: 10px;
+	color: #333;
+}
+

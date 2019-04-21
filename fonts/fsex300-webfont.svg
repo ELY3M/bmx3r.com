@@ -1,0 +1,307 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata></metadata>
+<defs>
+<font id="fixedsys_excelsior_3.01Rg" horiz-adv-x="80" >
+<font-face units-per-em="160" ascent="130" descent="-30" />
+<missing-glyph horiz-adv-x="500" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph unicode="&#xd;" d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 70h70v-90h-70v90zM60 0v10h10v10h-10v10h10v10h-10v10h-40v-50h40zM20 90h-10v20h10v-20h20v-10h-20v10zM60 90h-10v20h10v-20h20v-10h-20v10zM20 120h20v-10h-20v10zM60 120h20v-10h-20v10zM40 30v10h10v-10h-10zM40 10v10h10v-10h-10z" />
+<glyph d="M10 70h70v-90h-70v90zM40 10v30h10v-10h20v10h-10v10h-30v-10h-10v-30h10v-10h30v10h10v10h-20v-10h-10zM20 90h-10v20h10v-20h20v-10h-20v10zM60 90h-10v20h10v-20h20v-10h-20v10zM20 120h20v-10h-20v10zM60 120h20v-10h-20v10z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph unicode="&#x9;" d="M10 90h60v-90h-60v90z" />
+<glyph unicode="&#xa;" d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 70h70v-90h-70v90zM70 40h-10v10h-30v-10h-10v-30h10v-10h30v10h10v30zM20 90h-10v20h10v-20h20v-10h-20v10zM60 90h-10v20h10v-20h20v-10h-20v10zM40 10v30h10v-30h-10zM60 120h20v-10h-20v10zM20 120h20v-10h-20v10z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 70h70v-90h-70v90zM70 0v20h-10v10h10v10h-10v10h-40v-50h20v20h10v-20h20zM40 30v10h10v-10h-10zM20 90h-10v20h10v-20h20v-10h-20v10zM60 90h-10v20h10v-20h20v-10h-20v10zM20 120h20v-10h-20v10zM60 120h20v-10h-20v10z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 70h70v-90h-70v90zM40 50h-20v-40h10v-10h30v10h10v40h-20v-40h-10v30v10zM20 90h-10v20h10v-20h20v-10h-20v10zM60 90h-10v20h10v-20h20v-10h-20v10zM20 120h20v-10h-20v10zM60 120h20v-10h-20v10z" />
+<glyph unicode=" " />
+<glyph unicode="!" d="M60 50h-10v-20h-20v20h-10v30h10v10h20v-10h10v-30zM50 0h-20v20h20v-20z" />
+<glyph unicode="&#x22;" d="M70 60h-20v30h20v-30zM30 60h-20v30h20v-30z" />
+<glyph unicode="#" d="M80 20h-10v-20h-20v20h-10v-20h-20v20h-10v10h10v30h-10v10h10v20h20v-20h10v20h20v-20h10v-10h-10v-30h10v-10zM50 30v30h-10v-30h10z" />
+<glyph unicode="$" d="M70 10h-10v-10h-10v-20h-20v20h-10v10h-10v10h20v-10h20v20h-10v10h-10v10h-10v10h-10v20h10v10h10v20h20v-20h10v-10h10v-10h-20v10h-20v-20h10v-10h10v-10h10v-10h10v-20z" />
+<glyph unicode="%" d="M80 0h-10v-10h-30v10h-10v20h-10v-10h-10v20h10v10h10v10h10v10h-30v10h-10v20h10v10h30v-10h10v-20h10v10h10v-20h-10v-10h-10v-10h-10v-10h30v-10h10v-20zM50 60v10h-10v-10h10zM30 70v20h-10v-20h10zM60 0v20h-10v-20h10zM40 20v10h-10v-10h10z" />
+<glyph unicode="&#x26;" d="M80 0h-20v10h-10v-10h-30v10h-10v40h10v10h-10v20h10v10h30v-10h10v-20h-10v-10h-20v-40h20v20h-10v10h40v-10h-10v-20h10v-10zM40 60v20h-10v-20h10z" />
+<glyph unicode="'" d="M50 60h-20v30h20v-30z" />
+<glyph unicode="(" d="M60 -20h-20v10h-10v20h-10v50h10v20h10v10h20v-10h-10v-20h-10v-50h10v-20h10v-10z" />
+<glyph unicode=")" d="M60 10h-10v-20h-10v-10h-20v10h10v20h10v50h-10v20h-10v10h20v-10h10v-20h10v-50z" />
+<glyph unicode="*" d="M80 40h-20v-10h10v-10h-20v10h-10v-10h-20v10h10v10h-20v10h20v10h-10v10h20v-10h10v10h20v-10h-10v-10h20v-10z" />
+<glyph unicode="+" d="M70 40h-20v-20h-20v20h-20v10h20v20h20v-20h20v-10z" />
+<glyph unicode="," d="M60 -10h-10v-10h-20v10h10v10h-10v20h30v-30z" />
+<glyph unicode="-" d="M70 40h-60v10h60v-10z" />
+<glyph unicode="." d="M60 0h-30v20h30v-20z" />
+<glyph unicode="/" d="M70 70h-10v-20h-10v-20h-10v-20h-10v-20h-20v20h10v20h10v20h10v20h10v20h20v-20z" />
+<glyph unicode="0" d="M80 10h-10v-10h-40v10h-10v70h10v10h40v-10h10v-70zM60 10v40h-10v20h10v10h-20v-40h10v-20h-10v-10h20z" />
+<glyph unicode="1" d="M60 0h-20v60h-30v10h20v10h10v10h20v-90z" />
+<glyph unicode="2" d="M70 0h-60v20h10v10h10v10h10v10h10v30h-20v-20h-20v20h10v10h40v-10h10v-30h-10v-10h-10v-10h-10v-10h-10v-10h40v-10z" />
+<glyph unicode="3" d="M70 10h-10v-10h-40v10h-10v20h20v-20h20v30h-20v10h20v30h-20v-20h-20v20h10v10h40v-10h10v-30h-10v-10h10v-30z" />
+<glyph unicode="4" d="M80 20h-10v-20h-20v20h-40v20h10v50h20v-50h-10v-10h20v40h20v-40h10v-10z" />
+<glyph unicode="5" d="M70 20h-10v-10h-10v-10h-40v10h30v10h10v20h-40v50h60v-10h-40v-30h30v-10h10v-20z" />
+<glyph unicode="6" d="M70 10h-10v-10h-40v10h-10v50h10v10h10v20h30v-10h-10v-10h-10v-10h20v-10h10v-40zM50 10v40h-20v-40h20z" />
+<glyph unicode="7" d="M70 70h-10v-20h-10v-20h-10v-30h-20v30h10v20h10v20h10v10h-40v10h60v-20z" />
+<glyph unicode="8" d="M70 10h-10v-10h-40v10h-10v30h10v10h-10v30h10v10h40v-10h10v-30h-10v-10h10v-30zM50 50v30h-20v-20h10v-10h10zM50 10v20h-10v10h-10v-30h20z" />
+<glyph unicode="9" d="M70 30h-10v-10h-10v-20h-30v10h10v10h10v10h-20v10h-10v40h10v10h40v-10h10v-50zM50 40v40h-20v-40h20z" />
+<glyph unicode=":" d="M60 50h-30v20h30v-20zM60 0h-30v20h30v-20z" />
+<glyph unicode=";" d="M60 50h-30v20h30v-20zM60 -10h-10v-10h-20v10h10v10h-10v20h30v-30z" />
+<glyph unicode="&#x3c;" d="M70 0h-20v10h-10v10h-10v10h-10v10h-10v10h10v10h10v10h10v10h10v10h20v-10h-10v-10h-10v-10h-10v-10h-10v-10h10v-10h10v-10h10v-10h10v-10z" />
+<glyph unicode="=" d="M70 50h-60v10h60v-10zM70 30h-60v10h60v-10z" />
+<glyph unicode="&#x3e;" d="M70 40h-10v-10h-10v-10h-10v-10h-10v-10h-20v10h10v10h10v10h10v10h10v10h-10v10h-10v10h-10v10h-10v10h20v-10h10v-10h10v-10h10v-10h10v-10z" />
+<glyph unicode="?" d="M70 60h-10v-10h-10v-20h-20v20h10v10h10v20h-20v-20h-20v20h10v10h40v-10h10v-20zM50 0h-20v20h20v-20z" />
+<glyph unicode="@" d="M80 0h-70v10h-10v70h10v10h60v-10h10v-60h-40v10h-10v20h10v10h20v20h-40v-70h60v-10zM60 30v20h-10v-20h10z" />
+<glyph unicode="A" d="M70 0h-20v30h-20v-30h-20v70h10v10h10v10h20v-10h10v-10h10v-70zM50 40v30h-20v-30h20z" />
+<glyph unicode="B" d="M70 10h-10v-10h-50v90h50v-10h10v-30h-10v-10h10v-30zM50 50v30h-20v-30h20zM50 10v30h-20v-30h20z" />
+<glyph unicode="C" d="M70 10h-10v-10h-40v10h-10v70h10v10h40v-10h10v-20h-20v20h-20v-70h20v20h20v-20z" />
+<glyph unicode="D" d="M70 20h-10v-10h-10v-10h-40v90h40v-10h10v-10h10v-50zM50 20v50h-10v10h-10v-70h10v10h10z" />
+<glyph unicode="E" d="M70 0h-60v90h60v-10h-40v-30h30v-10h-30v-30h40v-10z" />
+<glyph unicode="F" d="M70 80h-40v-30h30v-10h-30v-40h-20v90h60v-10z" />
+<glyph unicode="G" d="M70 0h-50v10h-10v70h10v10h40v-10h10v-20h-20v20h-20v-70h20v20h-10v10h30v-40z" />
+<glyph unicode="H" d="M70 0h-20v40h-20v-40h-20v90h20v-40h20v40h20v-90z" />
+<glyph unicode="I" d="M60 0h-40v10h10v70h-10v10h40v-10h-10v-70h10v-10z" />
+<glyph unicode="J" d="M70 10h-10v-10h-40v10h-10v20h20v-20h20v80h20v-80z" />
+<glyph unicode="K" d="M70 0h-20v20h-10v20h-10v-40h-20v90h20v-40h10v20h10v20h20v-20h-10v-20h-10v-10h10v-20h10v-20z" />
+<glyph unicode="L" d="M70 0h-60v90h20v-80h40v-10z" />
+<glyph unicode="M" d="M80 0h-20v60h-10v-30h-10v30h-10v-60h-20v90h20v-20h10v-10h10v10h10v20h20v-90z" />
+<glyph unicode="N" d="M80 0h-20v30h-10v10h-10v10h-10v-50h-20v90h20v-20h10v-10h10v-10h10v40h20v-90z" />
+<glyph unicode="O" d="M70 10h-10v-10h-40v10h-10v70h10v10h40v-10h10v-70zM50 10v70h-20v-70h20z" />
+<glyph unicode="P" d="M70 50h-10v-10h-30v-40h-20v90h50v-10h10v-30zM50 50v30h-20v-30h20z" />
+<glyph unicode="Q" d="M70 -20h-20v10h-10v10h-20v10h-10v70h10v10h40v-10h10v-70h-10v-20h10v-10zM50 10v70h-20v-70h20z" />
+<glyph unicode="R" d="M70 0h-20v30h-10v10h-10v-40h-20v90h50v-10h10v-30h-10v-20h10v-30zM50 50v30h-20v-30h20z" />
+<glyph unicode="S" d="M70 10h-10v-10h-40v10h-10v10h20v-10h20v20h-10v10h-10v10h-10v10h-10v20h10v10h40v-10h10v-10h-20v10h-20v-20h10v-10h10v-10h10v-10h10v-20z" />
+<glyph unicode="T" d="M70 80h-20v-80h-20v80h-20v10h60v-10z" />
+<glyph unicode="U" d="M70 10h-10v-10h-40v10h-10v80h20v-80h20v80h20v-80z" />
+<glyph unicode="V" d="M70 20h-10v-10h-10v-10h-20v10h-10v10h-10v70h20v-70h20v70h20v-70z" />
+<glyph unicode="W" d="M80 30h-10v-30h-20v30h-10v-30h-20v30h-10v60h20v-60h10v30h10v-30h10v60h20v-60z" />
+<glyph unicode="X" d="M70 0h-20v30h-10v10h-10v-40h-20v30h10v10h10v20h-10v10h-10v20h20v-20h10v-10h10v30h20v-20h-10v-10h-10v-20h10v-10h10v-30z" />
+<glyph unicode="Y" d="M70 50h-10v-10h-10v-40h-20v40h-10v10h-10v40h20v-40h20v40h20v-40z" />
+<glyph unicode="Z" d="M70 0h-60v30h10v10h10v10h10v10h10v20h-40v10h60v-30h-10v-10h-10v-10h-10v-10h-10v-20h40v-10z" />
+<glyph unicode="[" d="M60 -30h-40v120h40v-10h-20v-100h20v-10z" />
+<glyph unicode="\" d="M70 -10h-20v20h-10v20h-10v20h-10v20h-10v20h20v-20h10v-20h10v-20h10v-20h10v-20z" />
+<glyph unicode="]" d="M60 -30h-40v10h20v100h-20v10h40v-120z" />
+<glyph unicode="^" d="M70 80h-20v10h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10z" />
+<glyph unicode="_" d="M80 -30h-80v10h80v-10z" />
+<glyph unicode="`" d="M60 80h-20v10h-10v10h-10v10h30v-20h10v-10z" />
+<glyph unicode="a" d="M70 0h-50v10h-10v20h10v10h30v20h-30v10h40v-10h10v-60zM50 10v20h-20v-20h20z" />
+<glyph unicode="b" d="M70 10h-10v-10h-50v90h20v-20h30v-10h10v-50zM50 10v50h-20v-50h20z" />
+<glyph unicode="c" d="M70 10h-10v-10h-40v10h-10v50h10v10h40v-10h10v-10h-20v10h-20v-50h20v10h20v-10z" />
+<glyph unicode="d" d="M70 0h-50v10h-10v50h10v10h30v20h20v-90zM50 10v50h-20v-50h20z" />
+<glyph unicode="e" d="M70 30h-40v-20h30v-10h-40v10h-10v50h10v10h40v-10h10v-30zM50 40v20h-20v-20h20z" />
+<glyph unicode="f" d="M70 40h-30v-40h-20v40h-10v10h10v30h10v10h40v-10h-30v-30h30v-10z" />
+<glyph unicode="g" d="M70 -20h-10v-10h-50v10h40v20h-30v10h-10v50h10v10h50v-90zM50 10v50h-20v-50h20z" />
+<glyph unicode="h" d="M70 0h-20v60h-20v-60h-20v90h20v-20h30v-10h10v-60z" />
+<glyph unicode="i" d="M50 80h-20v20h20v-20zM70 0h-60v10h20v50h-20v10h40v-60h20v-10z" />
+<glyph unicode="j" d="M60 80h-20v20h20v-20zM60 -20h-10v-10h-40v10h30v80h-20v10h40v-90z" />
+<glyph unicode="k" d="M70 0h-20v20h-10v10h-10v-30h-20v90h20v-50h10v10h10v20h20v-20h-10v-10h-10v-10h10v-10h10v-20z" />
+<glyph unicode="l" d="M70 0h-60v10h20v70h-20v10h40v-80h20v-10z" />
+<glyph unicode="m" d="M80 0h-20v60h-10v-50h-10v50h-10v-60h-20v70h60v-10h10v-60z" />
+<glyph unicode="n" d="M70 0h-20v60h-20v-60h-20v70h50v-10h10v-60z" />
+<glyph unicode="o" d="M70 10h-10v-10h-40v10h-10v50h10v10h40v-10h10v-50zM50 10v50h-20v-50h20z" />
+<glyph unicode="p" d="M70 10h-10v-10h-30v-30h-20v100h50v-10h10v-50zM50 10v50h-20v-50h20z" />
+<glyph unicode="q" d="M70 -30h-20v30h-30v10h-10v50h10v10h50v-100zM50 10v50h-20v-50h20z" />
+<glyph unicode="r" d="M70 50h-30v-10h-10v-40h-20v70h20v-20h10v10h10v10h20v-20z" />
+<glyph unicode="s" d="M70 10h-10v-10h-50v10h40v20h-30v10h-10v20h10v10h50v-10h-40v-20h30v-10h10v-20z" />
+<glyph unicode="t" d="M70 0h-40v10h-10v50h-10v10h10v20h20v-20h30v-10h-30v-50h30v-10z" />
+<glyph unicode="u" d="M70 0h-50v10h-10v60h20v-60h20v60h20v-70z" />
+<glyph unicode="v" d="M70 20h-10v-10h-10v-10h-20v10h-10v10h-10v50h20v-50h20v50h20v-50z" />
+<glyph unicode="w" d="M80 20h-10v-20h-20v20h-10v-20h-20v20h-10v50h20v-50h10v40h10v-40h10v50h20v-50z" />
+<glyph unicode="x" d="M70 0h-20v20h-20v-20h-20v20h10v10h10v10h-10v10h-10v20h20v-20h20v20h20v-20h-10v-10h-10v-10h10v-10h10v-20z" />
+<glyph unicode="y" d="M70 10h-10v-20h-10v-10h-10v-10h-40v10h30v10h10v10h-20v10h-10v60h20v-60h20v60h20v-60z" />
+<glyph unicode="z" d="M70 0h-60v20h10v10h10v10h10v10h10v10h-40v10h60v-20h-10v-10h-10v-10h-10v-10h-10v-10h40v-10z" />
+<glyph unicode="{" d="M60 -20h-20v10h-10v30h-10v10h-10v10h10v10h10v30h10v10h20v-10h-10v-30h-10v-10h-10v-10h10v-10h10v-30h10v-10z" />
+<glyph unicode="|" d="M50 -30h-20v120h20v-120z" />
+<glyph unicode="}" d="M70 30h-10v-10h-10v-30h-10v-10h-20v10h10v30h10v10h10v10h-10v10h-10v30h-10v10h20v-10h10v-30h10v-10h10v-10z" />
+<glyph unicode="~" d="M80 70h-10v-10h-30v10h-10v10h-10v-10h-10v-10h-10v20h10v10h30v-10h10v-10h10v10h10v10h10v-20z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph unicode="&#x85;" d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M60 50h-30v30h10v10h20v-10h-10v-10h10v-20z" />
+<glyph d="M60 60h-10v-10h-20v10h10v10h-10v20h30v-30z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph d="M10 90h60v-90h-60v90z" />
+<glyph unicode="&#xa0;" />
+<glyph unicode="&#xa1;" d="M60 -20h-10v-10h-20v10h-10v30h10v20h20v-20h10v-30zM50 40h-20v20h20v-20z" />
+<glyph unicode="&#xa2;" d="M70 20h-10v-10h-10v-20h-20v20h-10v10h-10v40h10v10h10v20h20v-20h10v-10h10v-10h-20v10h-20v-40h20v10h20v-10z" />
+<glyph unicode="&#xa3;" d="M70 0h-70v20h10v20h-10v10h10v30h10v10h40v-10h10v-10h-20v10h-20v-30h30v-10h-30v-20h-10v-10h50v-10z" />
+<glyph unicode="&#xa4;" d="M70 20h-20v10h-20v-10h-20v10h10v10h-10v20h10v10h-10v10h20v-10h20v10h20v-10h-10v-10h10v-20h-10v-10h10v-10zM50 40v20h-20v-20h20z" />
+<glyph unicode="&#xa5;" d="M70 20h-20v-20h-20v20h-20v10h20v10h-20v10h10v10h-10v30h20v-30h20v30h20v-30h-10v-10h10v-10h-20v-10h20v-10z" />
+<glyph unicode="&#xa6;" d="M50 40h-20v50h20v-50zM50 -30h-20v50h20v-50z" />
+<glyph unicode="&#xa7;" d="M70 -20h-10v-10h-40v10h-10v10h20v-10h20v20h-20v10h-10v10h-10v20h10v20h-10v20h10v10h40v-10h10v-10h-20v10h-20v-20h20v-10h10v-10h10v-20h-10v-20h10v-20zM50 20v20h-20v-20h20z" />
+<glyph unicode="&#xa8;" d="M70 80h-20v20h20v-20zM30 80h-20v20h20v-20z" />
+<glyph unicode="&#xa9;" d="M80 10h-10v-10h-60v10h-10v70h10v10h60v-10h10v-70zM70 20v50h-10v10h-40v-10h-10v-50h10v-10h40v10h10zM50 20h-20v10h-10v30h10v-30h20v-10zM30 70h20v-10h10v-10h-10v10h-20v10zM60 30h-10v10h10v-10z" />
+<glyph unicode="&#xaa;" d="M70 40h-50v10h-10v10h10v10h30v10h-30v10h40v-10h10v-40zM70 20h-60v10h60v-10zM50 50v10h-20v-10h20z" />
+<glyph unicode="&#xab;" d="M80 0h-20v10h-10v10h-10v10h10v10h10v10h20v-10h-10v-10h-10v-10h10v-10h10v-10zM40 0h-20v10h-10v10h-10v10h10v10h10v10h20v-10h-10v-10h-10v-10h10v-10h10v-10z" />
+<glyph unicode="&#xac;" d="M70 20h-20v20h-40v10h60v-30z" />
+<glyph unicode="&#xad;" d="M70 40h-60v10h60v-10z" />
+<glyph unicode="&#xae;" d="M80 10h-10v-10h-60v10h-10v70h10v10h60v-10h10v-70zM60 40h-10v20h-20v-20h20v-10h10v-10h10v50h-10v10h-40v-10h30v-10h10v-20zM60 20h-10v10h-20v-10h-10v50h-10v-50h10v-10h40v10z" />
+<glyph unicode="&#xaf;" d="M80 110h-80v10h80v-10z" />
+<glyph unicode="&#xb0;" d="M70 70h-10v-10h-40v10h-10v20h10v10h40v-10h10v-20zM50 70v20h-20v-20h20z" />
+<glyph unicode="&#xb1;" d="M70 40h-20v-20h-20v20h-20v10h20v20h20v-20h20v-10zM70 0h-60v10h60v-10z" />
+<glyph unicode="&#xb2;" d="M60 40h-40v20h10v10h10v10h-20v10h30v-10h10v-10h-10v-10h-10v-10h20v-10z" />
+<glyph unicode="&#xb3;" d="M60 50h-10v-10h-30v10h20v10h-10v10h10v10h-20v10h30v-10h10v-10h-10v-10h10v-10z" />
+<glyph unicode="&#xb4;" d="M60 100h-10v-10h-10v-10h-20v10h10v20h30v-10z" />
+<glyph unicode="&#xb5;" d="M50 0h-20v-20h-10v-10h-20v10h10v90h20v-60h20v-10zM80 0h-20v10h-10v60h20v-60h10v-10z" />
+<glyph unicode="&#xb6;" d="M80 80h-10v-110h-20v50h-20v10h-10v10h-10v30h10v10h10v10h50v-10z" />
+<glyph unicode="&#xb7;" d="M60 40h-30v20h30v-20z" />
+<glyph unicode="&#xb8;" d="M60 -20h-10v-10h-30v10h20v10h-10v10h20v-10h10v-10z" />
+<glyph unicode="&#xb9;" d="M50 40h-20v30h-10v10h10v10h20v-50z" />
+<glyph unicode="&#xba;" d="M70 50h-10v-10h-40v10h-10v30h10v10h40v-10h10v-30zM50 50v30h-20v-30h20zM70 20h-60v10h60v-10z" />
+<glyph unicode="&#xbb;" d="M80 20h-10v-10h-10v-10h-20v10h10v10h10v10h-10v10h-10v10h20v-10h10v-10h10v-10zM40 20h-10v-10h-10v-10h-20v10h10v10h10v10h-10v10h-10v10h20v-10h10v-10h10v-10z" />
+<glyph unicode="&#xbc;" d="M80 -10h-20v10h-30v20h-10v-10h-20v10h10v10h10v10h10v10h-20v30h-10v10h10v10h20v-50h10v10h10v10h10v10h20v-10h-10v-10h-10v-10h-10v-10h30v-50zM40 20v10h-10v-10h10zM60 10v10h-10v-10h10zM50 30v10h-10v-10h10z" />
+<glyph unicode="&#xbd;" d="M80 -10h-40v20h10v10h10v10h-30v-10h-10v-10h-20v10h10v10h10v10h10v10h-20v30h-10v10h10v10h20v-50h10v10h10v10h10v10h20v-10h-10v-10h-10v-10h-10v-10h20v-10h10v-10h-10v-10h-10v-10h20v-10z" />
+<glyph unicode="&#xbe;" d="M80 -10h-20v10h-30v20h-10v-10h-20v10h10v10h10v10h10v10h-30v10h20v10h-10v10h10v10h-20v10h30v-10h10v-10h-10v-10h10v-10h10v10h10v10h20v-10h-10v-10h-10v-10h-10v-10h30v-50zM40 20v10h-10v-10h10zM60 10v10h-10v-10h10zM50 30v10h-10v-10h10zM40 50v10h-10v-10h10z " />
+<glyph unicode="&#xbf;" d="M70 -20h-10v-10h-40v10h-10v20h10v10h10v20h20v-20h-10v-10h-10v-20h20v20h20v-20zM50 40h-20v20h20v-20z" />
+<glyph unicode="&#xc0;" d="M70 0h-20v30h-20v-30h-20v70h10v10h10v10h20v-10h10v-10h10v-70zM50 40v30h-20v-30h20zM50 100h-20v10h-10v10h20v-10h10v-10z" />
+<glyph unicode="&#xc1;" d="M70 0h-20v30h-20v-30h-20v70h10v10h10v10h20v-10h10v-10h10v-70zM50 40v30h-20v-30h20zM60 110h-10v-10h-20v10h10v10h20v-10z" />
+<glyph unicode="&#xc2;" d="M30 90h20v-10h10v-10h10v-70h-20v30h-20v-30h-20v70h10v10h10v10zM50 40v30h-20v-30h20zM50 110h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10h-20v10z" />
+<glyph unicode="&#xc3;" d="M70 0h-20v30h-20v-30h-20v70h10v10h10v10h20v-10h10v-10h10v-70zM80 110h-10v-10h-30v10h-10v-10h-20v10h10v10h30v-10h10v10h20v-10zM50 40v30h-20v-30h20z" />
+<glyph unicode="&#xc4;" d="M70 0h-20v30h-20v-30h-20v70h10v10h10v10h20v-10h10v-10h10v-70zM50 40v30h-20v-30h20zM70 100h-20v20h20v-20zM30 100h-20v20h20v-20z" />
+<glyph unicode="&#xc5;" d="M70 0h-20v30h-20v-30h-20v70h10v10h10v10h20v-10h10v-10h10v-70zM20 100v10h-10v10h10v10h40v-10h10v-10h-10v-10h-40zM50 40v30h-20v-30h20zM50 110v10h-20v-10h20z" />
+<glyph unicode="&#xc6;" d="M80 0h-40v30h-10v-30h-20v70h10v10h10v10h50v-10h-20v-30h20v-10h-20v-30h20v-10zM40 40v30h-10v-30h10z" />
+<glyph unicode="&#xc7;" d="M70 10h-10v-10h-10v-10h10v-10h-10v-10h-30v10h20v10h-10v10h-10v10h-10v70h10v10h40v-10h10v-20h-20v20h-20v-70h20v20h20v-20z" />
+<glyph unicode="&#xc8;" d="M70 0h-60v90h60v-10h-40v-30h30v-10h-30v-30h40v-10zM50 100h-20v10h-10v10h20v-10h10v-10z" />
+<glyph unicode="&#xc9;" d="M70 0h-60v90h60v-10h-40v-30h30v-10h-30v-30h40v-10zM60 110h-10v-10h-20v10h10v10h20v-10z" />
+<glyph unicode="&#xca;" d="M70 0h-60v90h60v-10h-40v-30h30v-10h-30v-30h40v-10zM50 110h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10h-20v10z" />
+<glyph unicode="&#xcb;" d="M70 0h-60v90h60v-10h-40v-30h30v-10h-30v-30h40v-10zM70 100h-20v20h20v-20zM30 100h-20v20h20v-20z" />
+<glyph unicode="&#xcc;" d="M60 0h-40v10h10v70h-10v10h40v-10h-10v-70h10v-10zM50 100h-20v10h-10v10h20v-10h10v-10z" />
+<glyph unicode="&#xcd;" d="M60 0h-40v10h10v70h-10v10h40v-10h-10v-70h10v-10zM60 110h-10v-10h-20v10h10v10h20v-10z" />
+<glyph unicode="&#xce;" d="M60 0h-40v10h10v70h-10v10h40v-10h-10v-70h10v-10zM50 110h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10h-20v10z" />
+<glyph unicode="&#xcf;" d="M60 0h-40v10h10v70h-10v10h40v-10h-10v-70h10v-10zM70 100h-20v20h20v-20zM30 100h-20v20h20v-20z" />
+<glyph unicode="&#xd0;" d="M70 20h-10v-10h-10v-10h-40v40h-10v10h10v40h40v-10h10v-10h10v-50zM50 20v50h-10v10h-10v-30h10v-10h-10v-30h10v10h10z" />
+<glyph unicode="&#xd1;" d="M80 0h-20v30h-10v10h-10v10h-10v-50h-20v90h20v-20h10v-10h10v-10h10v40h20v-90zM80 110h-10v-10h-30v10h-10v-10h-20v10h10v10h30v-10h10v10h20v-10z" />
+<glyph unicode="&#xd2;" d="M70 10h-10v-10h-40v10h-10v70h10v10h40v-10h10v-70zM50 10v70h-20v-70h20zM50 100h-20v10h-10v10h20v-10h10v-10z" />
+<glyph unicode="&#xd3;" d="M70 10h-10v-10h-40v10h-10v70h10v10h40v-10h10v-70zM50 10v70h-20v-70h20zM60 110h-10v-10h-20v10h10v10h20v-10z" />
+<glyph unicode="&#xd4;" d="M70 10h-10v-10h-40v10h-10v70h10v10h40v-10h10v-70zM50 10v70h-20v-70h20zM50 110h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10h-20v10z" />
+<glyph unicode="&#xd5;" d="M70 10h-10v-10h-40v10h-10v70h10v10h40v-10h10v-70zM50 10v70h-20v-70h20zM80 110h-10v-10h-30v10h-10v-10h-20v10h10v10h30v-10h10v10h20v-10z" />
+<glyph unicode="&#xd6;" d="M70 10h-10v-10h-40v10h-10v70h10v10h40v-10h10v-70zM50 10v70h-20v-70h20zM70 100h-20v20h20v-20zM30 100h-20v20h20v-20z" />
+<glyph unicode="&#xd7;" d="M70 10h-10v10h-10v10h-20v-10h-10v-10h-10v20h10v10h10v10h-10v10h-10v20h10v-10h10v-10h20v10h10v10h10v-20h-10v-10h-10v-10h10v-10h10v-20z" />
+<glyph unicode="&#xd8;" d="M70 10h-10v-10h-50v80h10v10h50v-80zM50 10v30h-10v-20h-10v-10h20zM50 70v10h-20v-30h10v20h10z" />
+<glyph unicode="&#xd9;" d="M70 10h-10v-10h-40v10h-10v80h20v-80h20v80h20v-80zM50 100h-20v10h-10v10h20v-10h10v-10z" />
+<glyph unicode="&#xda;" d="M70 10h-10v-10h-40v10h-10v80h20v-80h20v80h20v-80zM60 110h-10v-10h-20v10h10v10h20v-10z" />
+<glyph unicode="&#xdb;" d="M70 10h-10v-10h-40v10h-10v80h20v-80h20v80h20v-80zM50 110h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10h-20v10z" />
+<glyph unicode="&#xdc;" d="M70 10h-10v-10h-40v10h-10v80h20v-80h20v80h20v-80zM70 100h-20v20h20v-20zM30 100h-20v20h20v-20z" />
+<glyph unicode="&#xdd;" d="M70 50h-10v-10h-10v-40h-20v40h-10v10h-10v40h20v-40h20v40h20v-40zM60 110h-10v-10h-20v10h10v10h20v-10z" />
+<glyph unicode="&#xde;" d="M70 30h-10v-10h-30v-20h-20v90h20v-20h30v-10h10v-30zM50 30v30h-20v-30h20z" />
+<glyph unicode="&#xdf;" d="M70 10h-10v-10h-20v10h10v40h-10v30h-10v-80h-20v80h10v10h30v-10h10v-30h10v-40z" />
+<glyph unicode="&#xe0;" d="M70 0h-50v10h-10v20h10v10h30v20h-30v10h40v-10h10v-60zM50 80h-20v10h-10v10h-10v10h30v-20h10v-10zM50 10v20h-20v-20h20z" />
+<glyph unicode="&#xe1;" d="M70 0h-50v10h-10v20h10v10h30v20h-30v10h40v-10h10v-60zM70 100h-10v-10h-10v-10h-20v10h10v20h30v-10zM50 10v20h-20v-20h20z" />
+<glyph unicode="&#xe2;" d="M70 0h-50v10h-10v20h10v10h30v20h-30v10h40v-10h10v-60zM70 80h-20v10h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10zM50 10v20h-20v-20h20z" />
+<glyph unicode="&#xe3;" d="M70 0h-50v10h-10v20h10v10h30v20h-30v10h40v-10h10v-60zM50 10v20h-20v-20h20zM80 90h-10v-10h-30v10h-10v-10h-20v10h10v10h30v-10h10v10h20v-10z" />
+<glyph unicode="&#xe4;" d="M70 0h-50v10h-10v20h10v10h30v20h-30v10h40v-10h10v-60zM50 10v20h-20v-20h20zM70 80h-20v20h20v-20zM30 80h-20v20h20v-20z" />
+<glyph unicode="&#xe5;" d="M70 0h-50v10h-10v20h10v10h30v20h-30v10h40v-10h10v-60zM70 90h-10v-10h-40v10h-10v10h10v10h40v-10h10v-10zM50 10v20h-20v-20h20zM50 90v10h-20v-10h20z" />
+<glyph unicode="&#xe6;" d="M80 0h-30v10h-10v-10h-30v10h-10v20h10v10h20v20h-20v10h20v-10h10v10h30v-10h10v-30h-30v-20h30v-10zM30 10v20h-10v-20h10zM60 40v20h-10v-20h10z" />
+<glyph unicode="&#xe7;" d="M70 10h-10v-10h-10v-10h10v-10h-10v-10h-30v10h20v10h-10v10h-10v10h-10v50h10v10h40v-10h10v-10h-20v10h-20v-50h20v10h20v-10z" />
+<glyph unicode="&#xe8;" d="M70 30h-40v-20h30v-10h-40v10h-10v50h10v10h40v-10h10v-30zM50 80h-20v10h-10v10h-10v10h30v-20h10v-10zM50 40v20h-20v-20h20z" />
+<glyph unicode="&#xe9;" d="M70 30h-40v-20h30v-10h-40v10h-10v50h10v10h40v-10h10v-30zM70 100h-10v-10h-10v-10h-20v10h10v20h30v-10zM50 40v20h-20v-20h20z" />
+<glyph unicode="&#xea;" d="M70 30h-40v-20h30v-10h-40v10h-10v50h10v10h40v-10h10v-30zM50 40v20h-20v-20h20zM70 80h-20v10h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10z" />
+<glyph unicode="&#xeb;" d="M70 30h-40v-20h30v-10h-40v10h-10v50h10v10h40v-10h10v-30zM50 40v20h-20v-20h20zM70 80h-20v20h20v-20zM30 80h-20v20h20v-20z" />
+<glyph unicode="&#xec;" d="M70 0h-60v10h20v50h-20v10h40v-60h20v-10zM50 80h-20v10h-10v10h-10v10h30v-20h10v-10z" />
+<glyph unicode="&#xed;" d="M70 0h-60v10h20v50h-20v10h40v-60h20v-10zM70 100h-10v-10h-10v-10h-20v10h10v20h30v-10z" />
+<glyph unicode="&#xee;" d="M70 0h-60v10h20v50h-20v10h40v-60h20v-10zM70 80h-20v10h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10z" />
+<glyph unicode="&#xef;" d="M70 0h-60v10h20v50h-20v10h40v-60h20v-10zM70 80h-20v20h20v-20zM30 80h-20v20h20v-20z" />
+<glyph unicode="&#xf0;" d="M50 10v40h-20v10h-20v10h20v-10h10v10h-10v10h-10v10h20v-10h10v-10h10v-10h10v-50h-10v-10h-40v10h-10v40h20v-40h20zM50 90h20v-10h-20v10z" />
+<glyph unicode="&#xf1;" d="M70 0h-20v60h-20v-60h-20v70h50v-10h10v-60zM80 90h-10v-10h-30v10h-10v-10h-20v10h10v10h30v-10h10v10h20v-10z" />
+<glyph unicode="&#xf2;" d="M70 10h-10v-10h-40v10h-10v50h10v10h40v-10h10v-50zM50 10v50h-20v-50h20zM50 80h-20v10h-10v10h-10v10h30v-20h10v-10z" />
+<glyph unicode="&#xf3;" d="M70 10h-10v-10h-40v10h-10v50h10v10h40v-10h10v-50zM50 10v50h-20v-50h20zM70 100h-10v-10h-10v-10h-20v10h10v20h30v-10z" />
+<glyph unicode="&#xf4;" d="M70 10h-10v-10h-40v10h-10v50h10v10h40v-10h10v-50zM50 10v50h-20v-50h20zM70 80h-20v10h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10z" />
+<glyph unicode="&#xf5;" d="M70 10h-10v-10h-40v10h-10v50h10v10h40v-10h10v-50zM50 10v50h-20v-50h20zM80 90h-10v-10h-30v10h-10v-10h-20v10h10v10h30v-10h10v10h20v-10z" />
+<glyph unicode="&#xf6;" d="M70 10h-10v-10h-40v10h-10v50h10v10h40v-10h10v-50zM50 10v50h-20v-50h20zM70 80h-20v20h20v-20zM30 80h-20v20h20v-20z" />
+<glyph unicode="&#xf7;" d="M70 40h-60v10h60v-10zM50 10h-20v20h20v-20zM50 60h-20v20h20v-20z" />
+<glyph unicode="&#xf8;" d="M70 10h-10v-10h-50v60h10v10h50v-60zM50 10v20h-10v-10h-10v-10h20zM50 50v10h-20v-20h10v10h10z" />
+<glyph unicode="&#xf9;" d="M70 0h-50v10h-10v60h20v-60h20v60h20v-70zM50 80h-20v10h-10v10h-10v10h30v-20h10v-10z" />
+<glyph unicode="&#xfa;" d="M70 0h-50v10h-10v60h20v-60h20v60h20v-70zM70 100h-10v-10h-10v-10h-20v10h10v20h30v-10z" />
+<glyph unicode="&#xfb;" d="M70 0h-50v10h-10v60h20v-60h20v60h20v-70zM70 80h-20v10h-20v-10h-20v10h10v10h10v10h20v-10h10v-10h10v-10z" />
+<glyph unicode="&#xfc;" d="M70 0h-50v10h-10v60h20v-60h20v60h20v-70zM70 80h-20v20h20v-20zM30 80h-20v20h20v-20z" />
+<glyph unicode="&#xfd;" d="M70 10h-10v-20h-10v-10h-10v-10h-40v10h30v10h10v10h-20v10h-10v60h20v-60h20v60h20v-60zM70 100h-10v-10h-10v-10h-20v10h10v20h30v-10z" />
+<glyph unicode="&#xfe;" d="M70 10h-10v-10h-30v-30h-20v120h20v-20h30v-10h10v-50zM50 10v50h-20v-50h20z" />
+<glyph unicode="&#xff;" d="M70 10h-10v-20h-10v-10h-10v-10h-40v10h30v10h10v10h-20v10h-10v60h20v-60h20v60h20v-60zM70 80h-20v20h20v-20zM30 80h-20v20h20v-20z" />
+<glyph unicode="&#x152;" d="M80 0h-60v10h-10v70h10v10h60v-10h-20v-30h20v-10h-20v-30h20v-10zM40 10v70h-10v-70h10z" />
+<glyph unicode="&#x153;" d="M30 10v50h10v10h30v-10h10v-30h-30v-20h30v-10h-30v10h-9v-10h-31v10h-10v50h10v10h20v-10h-10v-50h10zM60 40v20h-10v-20h10z" />
+<glyph unicode="&#x178;" d="M70 50h-10v-10h-10v-40h-20v40h-10v10h-10v40h20v-40h20v40h20v-40zM70 100h-20v20h20v-20zM30 100h-20v20h20v-20z" />
+<glyph unicode="&#x2c6;" d="M70 100h-20v10h-20v-10h-20v10h10v10h40v-10h10v-10z" />
+<glyph unicode="&#x2dc;" d="M80 110h-10v-10h-30v10h-10v-10h-20v10h10v10h30v-10h10v10h20v-10z" />
+<glyph unicode="&#x2000;" horiz-adv-x="65" />
+<glyph unicode="&#x2001;" horiz-adv-x="130" />
+<glyph unicode="&#x2002;" horiz-adv-x="65" />
+<glyph unicode="&#x2003;" horiz-adv-x="130" />
+<glyph unicode="&#x2004;" horiz-adv-x="43" />
+<glyph unicode="&#x2005;" horiz-adv-x="32" />
+<glyph unicode="&#x2006;" horiz-adv-x="21" />
+<glyph unicode="&#x2007;" horiz-adv-x="21" />
+<glyph unicode="&#x2008;" horiz-adv-x="16" />
+<glyph unicode="&#x2009;" horiz-adv-x="26" />
+<glyph unicode="&#x200a;" horiz-adv-x="7" />
+<glyph unicode="&#x2010;" d="M70 40h-60v10h60v-10z" />
+<glyph unicode="&#x2011;" d="M70 40h-60v10h60v-10z" />
+<glyph unicode="&#x2012;" d="M70 40h-60v10h60v-10z" />
+<glyph unicode="&#x2013;" d="M20 50h40v-10h-40v10z" />
+<glyph unicode="&#x2014;" d="M0 50h80v-10h-80v10z" />
+<glyph unicode="&#x2018;" d="M60 50h-30v30h10v10h20v-10h-10v-10h10v-20z" />
+<glyph unicode="&#x2019;" d="M60 60h-10v-10h-20v10h10v10h-10v20h30v-30z" />
+<glyph unicode="&#x201a;" d="M60 -10h-10v-10h-20v10h10v10h-10v20h30v-30z" />
+<glyph unicode="&#x201c;" d="M70 50h-30v30h10v10h20v-10h-10v-10h10v-20zM30 50h-30v30h10v10h20v-10h-10v-10h10v-20z" />
+<glyph unicode="&#x201d;" d="M80 60h-10v-10h-20v10h10v10h-10v20h30v-30zM40 60h-10v-10h-20v10h10v10h-10v20h30v-30z" />
+<glyph unicode="&#x201e;" d="M80 -10h-10v-10h-20v10h10v10h-10v20h30v-30zM40 -10h-10v-10h-20v10h10v10h-10v20h30v-30z" />
+<glyph unicode="&#x2022;" d="M60 30h-10v-10h-20v10h-10v20h10v10h20v-10h10v-20z" />
+<glyph unicode="&#x2026;" d="M80 0h-20v20h20v-20zM20 0h-20v20h20v-20zM50 0h-20v20h20v-20z" />
+<glyph unicode="&#x202f;" horiz-adv-x="26" />
+<glyph unicode="&#x2039;" d="M60 0h-20v10h-10v10h-10v10h10v10h10v10h20v-10h-10v-10h-10v-10h10v-10h10v-10z" />
+<glyph unicode="&#x203a;" d="M60 20h-10v-10h-10v-10h-20v10h10v10h10v10h-10v10h-10v10h20v-10h10v-10h10v-10z" />
+<glyph unicode="&#x205f;" horiz-adv-x="32" />
+<glyph unicode="&#x20ac;" d="M70 10h-10v-10h-40v10h-10v20h-10v10h10v10h-10v10h10v20h10v10h40v-10h10v-10h-20v10h-20v-20h30v-10h-30v-10h30v-10h-30v-20h20v10h20v-10z" />
+<glyph unicode="&#x2122;" d="M80 60h-20v10h-10v-10h-10v20h-10v-20h-20v20h-10v10h50v-10h10v10h20v-30z" />
+<glyph unicode="&#x25fc;" horiz-adv-x="70" d="M0 70h70v-70h-70v70z" />
+<glyph unicode="&#xfb01;" d="M70 70h-20v10h-20v-20h40v-50h10v-10h-40v10h10v40h-20v-50h-20v50h-10v10h10v20h10v10h40v-10h10v-10z" />
+<glyph unicode="&#xfb02;" d="M50 10v30h-20v-40h-20v40h-10v10h10v30h10v10h50v-80h10v-10h-40v10h10zM30 50h20v30h-20v-30z" />
+<glyph unicode="&#xfb03;" d="M60 50h-10v-50h-20v50h-10v-50h-20v80h10v10h60v-10h10v-10h-20v10h-10v-20h30v-60h-20v50zM20 60h10v20h-10v-20z" />
+<glyph unicode="&#xfb04;" d="M60 50h-10v-50h-20v50h-10v-50h-20v80h10v10h70v-90h-20v50zM50 60h10v20h-10v-20zM20 60h10v20h-10v-20z" />
+</font>
+</defs></svg> 
