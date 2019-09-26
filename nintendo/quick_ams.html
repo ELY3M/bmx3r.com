@@ -22,7 +22,7 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </p>
 
-<p align="center"><font size=6><font face="Fixedsys">Quick and Clean Atmosphere Setup</font></font>
+<p align="center"><font size=6><font face="Fixedsys">Quick and Clean Atmosphere (without emunand) Setup</font></font>
 <p align="center"><font face="Fixedsys"> <p>
 <center>
 <table width=50%><tr><td>
@@ -30,23 +30,24 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 <font color=RED><b>Very Important to do your Nand backup before you do CFW.  More info at <a href=https://switchgui.de/switch-guide/user_guide/emummc/making_emummc/#making-a-nand-backup>Making Nand backup with Hekate tool</a></b></font>
 <p> 
-This tutorial is for somoene who do not have emunand / emummc setup or do not want to setup emunand / emummc
+This tutorial is for someone who do not have emunand / emummc setup or do not want to setup emunand / emummc.
 <p>
-If you are switching from sxos to atmosphere, you need to delete SXOS tools in the switch folder. They will not work in atmosphere and there are alternatives for the apps.  
+If you are switching from sxos to atmosphere, There is custom boot.dat to boot atmosphere for people who have sxos pro dongle at <a href=https://github.com/ELY3M/sx-custom-boot.dat-maker/releases>https://github.com/ELY3M/sx-custom-boot.dat-maker/releases</a>
 <p>
 If you want to run clean Atmosphere<br>
 follow these steps<br>
 <p>
-1. Make sure your SD is formatted to fat32 <br>
-2. Delete EVERYTHING except the folder named "Nintendo" and "emuMMC" and "switch" <br>
-3. download the latest Atmosphere zip file and extract to SD card <a href=https://github.com/Atmosphere-NX/Atmosphere/releases>https://github.com/Atmosphere-NX/Atmosphere/releases</a> <br>
+1. Backup your Nintendo folder on your sd card to your pc.  <br>
+2. Format your sd card as fat32 with <a href=http://www.ridgecrop.demon.co.uk/guiformat.exe>guiformat</a> app. - if you get error. you need to kill explorer.exe with taskmgr then format then restart explorer.exe <br>
+3. download the latest Atmosphere zip file and extract to the root of your sd card <a href=https://github.com/Atmosphere-NX/Atmosphere/releases>https://github.com/Atmosphere-NX/Atmosphere/releases</a> <br>
 4. download fusee-primary.bin, this is the payload you will use to boot your Switch. (It will go in your tegrarcumgui, on your dongle, on your phone)<br>
-5. download <a href=https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/>Sigpatches from here</a> and extract to SD<br>
-6. when in RCM, inject fusee-primary.bin<br>
-7. Hold R while tapping the Album Icon to enter the Homebrew Menu.  <br> 
-8. if any of your homebrew apps do not work for some reason, just re-download and re-install according to the app's instructions on their github.  
+5. download <a href=https://gbatemp.net/threads/i-heard-that-you-guys-need-some-sweet-patches-for-atmosphere.521164/>Sigpatches from here</a> and extract to the root of your sd card.<br>
+6. copy your Nintendo folder back to your sd card and put your sd card back in your Switch. <br>
+7. get your switch in RCM mode then inject fusee-primary.bin<br>
+8. Hold R while tapping the Album Icon to enter the Homebrew Menu.  <br> 
 
 <p>
+
 make sure to read my atmosphere tips <a href=atmosphere.html>here</a>
 
 
